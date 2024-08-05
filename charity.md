@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Recognizing the vital role of charity in fostering a compassionate and supportive community, this chapter outlines the principles and guidelines for charitable giving according to Maimonides. Rooted in the belief that helping others strengthens societal bonds and promotes justice, this chapter aims to inspire a culture of generosity and responsibility within our community.
+Recognizing the vital role of charity in fostering a compassionate and supportive community, this chapter outlines the principles and guidelines for charitable giving according to Maimonides[^1]. Rooted in the belief that helping others strengthens societal bonds and promotes justice, this chapter aims to inspire a culture of generosity and responsibility within our community.
 
 ## Principles
 
@@ -31,3 +31,5 @@ Recognizing the vital role of charity in fostering a compassionate and supportiv
 ## Conclusion
 
 In adopting these principles and guidelines for charitable giving, we aim to create a community where generosity and responsibility are paramount. Let this guide us in fostering a culture of support and compassion, where everyone is empowered to contribute to the well-being of others, starting with those closest to us and extending outward to the global community.
+
+[^1]: [My reference.](https://www.sefaria.org/Mishneh_Torah%2C_Gifts_to_the_Poor.7.13?lang=bi&with=all&lang2=en)

@@ -24,7 +24,7 @@ Recognizing the vital role of charity in fostering a compassionate and supportiv
 
 **3. Ensuring Sustainability:** Sustainable charity is key. We pledge to support initiatives that promote long-term self-sufficiency and empowerment, such as education, job training, and small business support, particularly for family and local community members.
 
-**4. Maintaining Anonymity:** When possible, charity should be given anonymously. This respects the dignity of the recipients and aligns with Maimonides' teaching that the highest form of charity is to give without knowing the recipient and without the recipient knowing the donor.
+**4. Maintaining Anonymity:** When possible, charity should be given anonymously[^2]. This respects the dignity of the recipients and aligns with Maimonides' teaching that the highest form of charity is to give without knowing the recipient and without the recipient knowing the donor.
 
 **5. Evaluating Impact:** Regularly evaluate the impact of charitable actions. We commit to assessing the outcomes of our charity to ensure that it is effective and aligned with the principles of prioritizing family, community, city, country, and global needs.
 
@@ -33,3 +33,4 @@ Recognizing the vital role of charity in fostering a compassionate and supportiv
 In adopting these principles and guidelines for charitable giving, we aim to create a community where generosity and responsibility are paramount. Let this guide us in fostering a culture of support and compassion, where everyone is empowered to contribute to the well-being of others, starting with those closest to us and extending outward to the global community.
 
 [^1]: [Maimonides: Gifts To The Poor 7:13](https://www.sefaria.org/Mishneh_Torah%2C_Gifts_to_the_Poor.7.13?lang=bi&with=all&lang2=en)
+[^2]: [Maimonides: Gifts To The Poor 10:8](https://www.sefaria.org/Mishneh_Torah%2C_Gifts_to_the_Poor.10.8?lang=bi&with=all&lang2=en)

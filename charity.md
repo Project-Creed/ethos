@@ -32,4 +32,4 @@ Recognizing the vital role of charity in fostering a compassionate and supportiv
 
 In adopting these principles and guidelines for charitable giving, we aim to create a community where generosity and responsibility are paramount. Let this guide us in fostering a culture of support and compassion, where everyone is empowered to contribute to the well-being of others, starting with those closest to us and extending outward to the global community.
 
-[^1]: [My reference.](https://www.sefaria.org/Mishneh_Torah%2C_Gifts_to_the_Poor.7.13?lang=bi&with=all&lang2=en)
+[^1]: [Maimonides: Gifts To The Poor 7:13](https://www.sefaria.org/Mishneh_Torah%2C_Gifts_to_the_Poor.7.13?lang=bi&with=all&lang2=en)

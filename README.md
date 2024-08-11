@@ -13,7 +13,7 @@ A secular life philosophy or worldview that:
 7. Seeks to address fundamental human questions about morality, purpose, and the human condition through reason and empirical understanding
 
 # Ethosian 
-Someone who follows this Ethosism
+Someone who follows this Ethos document, who thereby follows Ethosism, is an Ethosian.
 
 This is the core creed. Goal is for this to be the base whereby more concrete creeds can be built out and for people to follow.
 

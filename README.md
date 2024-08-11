@@ -28,7 +28,7 @@ In essence, Ethosism offers a more structured, universally applicable, and deepl
 
 Those that prefer Ethosism over Secular Humanism value a structured, motivational framework that offers clear guidance on how to live ethically and purposefully, with a sense of generational responsibility and universal applicability.
 
-### How is This Different from Secular Humanism?
+## Outline of differences
 
 Ethosism shares certain similarities with Secular Humanism, such as its secular nature, emphasis on ethical living, and focus on human potential. However, Ethosism distinguishes itself in several key ways:
 

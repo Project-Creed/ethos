@@ -1,0 +1,13 @@
+# Chapter 68: Ethosisms Role In Shaping Culture
+
+## Introduction
+
+[Write your introduction here]
+
+## Main Content
+
+[Write your main content here]
+
+## Conclusion
+
+[Write your conclusion here]

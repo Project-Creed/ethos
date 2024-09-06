@@ -8,7 +8,7 @@ One of the distinctive features of Ethosism is its incorporation of concepts tha
 
 By addressing fundamental human questions about morality, purpose, and the human condition through reason and empirical understanding, Ethosism seeks to offer a meaningful and fulfilling way of life. It aims to create a sense of belonging and purpose that is both profound and practical, guiding individuals towards a life of integrity and fulfillment.
 
-# Ethosian 
+# Ethosian ✦
 Someone who follows this Ethos document, who thereby follows Ethosism, is an Ethosian. An Ethosian is committed to living by the principles outlined in Ethos, striving to embody the values of personal growth, ethical behavior, and societal contribution. This commitment is not just a personal endeavor but a collective one, as Ethosians support each other in their journey towards a more ethical and meaningful life.
 
 This is the core creed. The goal is for this to be the base whereby more concrete creeds can be built out and for people to follow. Recognizing that having a framework for life is beneficial, Ethosism provides a structure that exists regardless of theological views but carries the same impact as concepts like hell or heaven. Why? Because you are not living up to your potential as prescribed by your creed. Now you have a framework for life to live against, keeping you as a productive human being.

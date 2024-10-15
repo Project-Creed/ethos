@@ -28,6 +28,17 @@ Recognizing the vital role of charity in fostering a compassionate and supportiv
 
 **5. Evaluating Impact:** Regularly evaluate the impact of charitable actions. We commit to assessing the outcomes of our charity to ensure that it is effective and aligned with the principles of prioritizing family, community, city, country, and global needs. Evaluation involves tracking the progress and success of charitable initiatives, gathering feedback from recipients, and adjusting strategies as needed. This ongoing process ensures that our charitable efforts remain relevant and effective. By continuously refining our approach based on outcomes, we can maximize the positive impact of our contributions and stay true to our guiding principles.
 
+## Minimum and Maximum Charity
+
+**1. Minimum Charity (10%):** In accordance with traditional teachings, we establish a minimum charitable contribution of 10% of one's income. This baseline ensures that everyone participates in the act of giving, regardless of their financial situation. By setting aside this portion, we cultivate a habit of generosity and social responsibility. This practice, known as "tithing" in some traditions, helps create a consistent flow of support for those in need while also instilling discipline in personal financial management.
+
+**2. Maximum Charity (20%):** While generosity is commendable, it's important to maintain financial stability. Therefore, we suggest an upper limit of 20% of one's income for charitable giving. This cap helps ensure that individuals do not jeopardize their own financial well-being while helping others. It allows for significant contributions to causes and communities in need, while still maintaining a balanced approach to personal finances. This guideline is especially important for those who may be tempted to give beyond their means, potentially putting themselves at financial risk.
+
+**3. Flexibility within Range:** We recognize that personal circumstances vary, and financial situations can change. Therefore, we encourage individuals to find their comfortable level of giving within this 10-20% range. During times of greater financial stability, one might consider increasing their contributions closer to the 20% mark. Conversely, during periods of financial strain, it's acceptable to adjust closer to the 10% minimum. This flexibility allows for sustainable, long-term charitable practices that adapt to life's changing circumstances.
+
+**4. Quality over Quantity:** While these percentage guidelines provide a framework, we emphasize that the impact and thoughtfulness of giving are just as important as the amount. We encourage donors to research and choose causes that align with their values and have demonstrable positive impacts. Even within the 10-20% range, strategic and well-informed giving can maximize the effect of one's charitable contributions.
+
+
 ## Conclusion
 
 In adopting these principles and guidelines for charitable giving, we aim to create a community where generosity and responsibility are paramount. Let this guide us in fostering a culture of support and compassion, where everyone is empowered to contribute to the well-being of others, starting with those closest to us and extending outward to the global community. By embedding these values into our daily lives, we can build a more just, equitable, and compassionate world, one act of charity at a time. Through our collective efforts, we can make a significant difference, ensuring that the principles of charity become a cornerstone of our society's ethos.

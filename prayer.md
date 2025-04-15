@@ -19,6 +19,20 @@ Example format:
 - Identification of areas for improvement
 - Setting of intentions for future behavior and development
 
+#### Example of Self-Reflective Prayer
+
+> *Morning Reflection*
+> 
+> I begin this day aware of my place in the human community and my potential for growth.
+> 
+> Yesterday, I responded with impatience to my colleague's questions, falling short of my commitment to compassionate communication. Yet I also recognized a challenge to ethical principles in our project planning and spoke up despite discomfort.
+> 
+> I acknowledge my growth in courage to uphold values even when difficult, while recognizing my continued struggle with patience under pressure.
+> 
+> Today, I commit to pausing before responding when I feel rushed, remembering that my interactions shape not only my character but influence others' wellbeing.
+> 
+> I carry forward the wisdom of those who taught me the value of respectful discourse, and I contribute to a legacy of thoughtful engagement for those who will come after me.
+
 ### Communal Prayer
 
 Communal prayer brings Ethosians together to affirm shared values and strengthen social bonds. These gatherings create spaces for collective reflection, mutual support, and the intergenerational transmission of wisdom. Like religious congregations, communal prayer fosters a sense of belonging and shared purpose, but focuses on human connection rather than divine presence.
@@ -29,6 +43,26 @@ Communal prayers might include:
 - Collective affirmation of Ethosian values
 - Discussion of ethical challenges in contemporary society
 - Intergenerational dialogue about living up to one's potential
+
+#### Example of Communal Prayer Session
+
+> *Weekly Community Gathering*
+> 
+> **Opening (Facilitator):** "We gather today as Ethosians committed to our shared journey of growth and ethical living. Together we create a space of honesty, support, and collective wisdom."
+> 
+> **Reading from Ethos (Member):** [Reading a passage from the Ethos document about ethical responsibility]
+> 
+> **Shared Reflection (Facilitator):** "This week, we focus on how we've upheld our commitment to truthfulness in our daily lives. I invite each person to share a moment when this value was either challenged or successfully expressed."
+> 
+> **Communal Sharing (Members):** [Group members share experiences in turn, with others listening attentively without judgment]
+> 
+> **Collective Affirmation (All together):**
+> "We affirm our commitment to truth in our words and actions.
+> We acknowledge our human imperfection while striving toward our potential.
+> We honor those who taught us integrity and take responsibility for demonstrating these values to future generations.
+> Together, we support each other in living aligned with our highest principles."
+> 
+> **Closing (Facilitator):** "Let us carry these reflections into our week ahead, remembering that we are part of a community dedicated to growth and ethical living. Our individual actions contribute to our collective flourishing."
 
 ### Aspirational Prayer
 

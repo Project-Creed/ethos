@@ -18,7 +18,7 @@ These 80 pillars represent the essential framework for living as an Ethosian. Ea
 - [x] **1. Purpose** - Understanding your role in the grand tapestry of existence
 - [x] **2. Discipline** - Mastering self-control and consistent action
 - [x] **3. Humility** - Recognizing your place while striving for greatness
-- [ ] **4. Honesty** - Living in truth with yourself and others
+- [x] **4. Honesty** - Living in truth with yourself and others
 - [ ] **5. Resilience** - Bouncing back from adversity stronger than before
 - [ ] **6. Gratitude and Appreciation** - Acknowledging the gifts of existence
 - [ ] **7. Emotional Intelligence** - Mastering your inner emotional landscape

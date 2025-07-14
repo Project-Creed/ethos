@@ -25,7 +25,7 @@ These 80 pillars represent the essential framework for living as an Ethosian. Ea
 - [x] **8. Learning** - Embracing lifelong education and growth
 - [x] **9. Creativity** - Expressing your unique contribution to the world
 - [x] **10. Time Management** - Stewarding your most precious resource
-- [ ] **11. Sleep** - Respecting the biological foundations of excellence
+- [x] **11. Sleep** - Respecting the biological foundations of excellence
 - [ ] **12. Fitness** - Maintaining the vessel of your potential
 - [ ] **13. Diet** - Fueling your body for optimal performance
 - [ ] **14. Adversity** - Transforming challenges into stepping stones

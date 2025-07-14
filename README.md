@@ -22,7 +22,7 @@ These 80 pillars represent the essential framework for living as an Ethosian. Ea
 - [x] **5. Resilience** - Bouncing back from adversity stronger than before
 - [x] **6. Gratitude and Appreciation** - Acknowledging the gifts of existence
 - [x] **7. Emotional Intelligence** - Mastering your inner emotional landscape
-- [ ] **8. Learning** - Embracing lifelong education and growth
+- [x] **8. Learning** - Embracing lifelong education and growth
 - [ ] **9. Creativity** - Expressing your unique contribution to the world
 - [ ] **10. Time Management** - Stewarding your most precious resource
 - [ ] **11. Sleep** - Respecting the biological foundations of excellence

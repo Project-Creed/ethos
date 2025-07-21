@@ -27,80 +27,80 @@ These 80 pillars represent the essential framework for living as an Ethosian. Ea
 - [x] **10. Time Management** - Stewarding your most precious resource
 - [x] **11. Sleep** - Respecting the biological foundations of excellence
 - [x] **12. Fitness** - Maintaining the vessel of your potential
-- [ ] **13. Diet** - Fueling your body for optimal performance
-- [ ] **14. Adversity** - Transforming challenges into stepping stones
-- [ ] **15. Self-Reflection** - Knowing thyself deeply and honestly
-- [ ] **16. Patience** - Understanding that great things take time
-- [ ] **17. Courage** - Acting righteously despite fear or opposition
-- [ ] **18. Wisdom** - Applying knowledge with discernment
-- [ ] **19. Mindfulness** - Living fully present in each moment
-- [ ] **20. Personal Mission** - Defining your unique contribution to humanity
+- [x] **13. Diet** - Fueling your body for optimal performance
+- [x] **14. Adversity** - Transforming challenges into stepping stones
+- [x] **15. Self-Reflection** - Knowing thyself deeply and honestly
+- [x] **16. Patience** - Understanding that great things take time
+- [x] **17. Courage** - Acting righteously despite fear or opposition
+- [x] **18. Wisdom** - Applying knowledge with discernment
+- [x] **19. Mindfulness** - Living fully present in each moment
+- [x] **20. Personal Mission** - Defining your unique contribution to humanity
 
 ### Relationships and Community (Pillars 21-40)
-- [ ] **21. Monogamy** - Commitment to deep, exclusive partnership
-- [ ] **22. Pre-Marital Relations** - Approaching intimacy with wisdom
-- [ ] **23. Marriage** - Building a partnership for life and legacy
-- [ ] **24. Children** - Raising the next generation with intention
-- [ ] **25. Age to Marry By** - Timing life's major commitments wisely
-- [ ] **26. Hospitality** - Opening your home and heart to others
-- [ ] **27. Community** - Contributing to the fabric of society
-- [ ] **28. Leadership** - Guiding others toward shared ideals
-- [ ] **29. Charity** - Giving generously to those in need
-- [ ] **30. Forgiveness** - Releasing resentment for healing and growth
-- [ ] **31. Friendship** - Cultivating meaningful connections
-- [ ] **32. Mentorship** - Passing wisdom to the next generation
-- [ ] **33. Communication** - Speaking with clarity, kindness, and truth
-- [ ] **34. Conflict Resolution** - Transforming disagreement into understanding
-- [ ] **35. Empathy** - Understanding others' perspectives deeply
-- [ ] **36. Boundaries** - Protecting your energy and values
-- [ ] **37. Teamwork** - Collaborating effectively toward common goals
-- [ ] **38. Networking** - Building professional and personal connections
-- [ ] **39. Parenting** - Guiding children to become ethical adults
-- [ ] **40. Elder Care** - Honoring those who came before us
+- [x] **21. Monogamy** - Commitment to deep, exclusive partnership
+- [x] **22. Pre-Marital Relations** - Approaching intimacy with wisdom
+- [x] **23. Marriage** - Building a partnership for life and legacy
+- [x] **24. Children** - Raising the next generation with intention
+- [x] **25. Age to Marry By** - Timing life's major commitments wisely
+- [x] **26. Hospitality** - Opening your home and heart to others
+- [x] **27. Community** - Contributing to the fabric of society
+- [x] **28. Leadership** - Guiding others toward shared ideals
+- [x] **29. Charity** - Giving generously to those in need
+- [x] **30. Forgiveness** - Releasing resentment for healing and growth
+- [x] **31. Friendship** - Cultivating meaningful connections
+- [x] **32. Mentorship** - Passing wisdom to the next generation
+- [x] **33. Communication** - Speaking with clarity, kindness, and truth
+- [x] **34. Conflict Resolution** - Transforming disagreement into understanding
+- [x] **35. Empathy** - Understanding others' perspectives deeply
+- [x] **36. Boundaries** - Protecting your energy and values
+- [x] **37. Teamwork** - Collaborating effectively toward common goals
+- [x] **38. Networking** - Building professional and personal connections
+- [x] **39. Parenting** - Guiding children to become ethical adults
+- [x] **40. Elder Care** - Honoring those who came before us
 
 ### Ethical Conduct (Pillars 41-60)
-- [ ] **41. Evil Speech** - Avoiding harmful words and gossip
-- [ ] **42. Guarding Eyes** - Protecting your mind from corrupting influences
-- [ ] **43. Pornography** - Maintaining purity of thought and desire
-- [ ] **44. Self-Pleasure** - Approaching sexuality with wisdom and restraint
-- [ ] **45. Modesty** - Dressing and behaving with dignity
-- [ ] **46. Wealth** - Pursuing and managing resources ethically
-- [ ] **47. Technology** - Using digital tools wisely and purposefully
-- [ ] **48. Environmental Stewardship** - Caring for our shared planet
-- [ ] **49. Veganism** - Considering the ethics of our food choices
-- [ ] **50. Pushing to Production on Friday** - Maintaining professional excellence
-- [ ] **51. Intellectual Honesty** - Pursuing truth over comfort
-- [ ] **52. Justice** - Standing up for what is right
-- [ ] **53. Integrity** - Aligning actions with stated values
-- [ ] **54. Accountability** - Taking responsibility for your choices
-- [ ] **55. Transparency** - Being open and honest in dealings
-- [ ] **56. Fairness** - Treating all people with equal consideration
-- [ ] **57. Respect** - Honoring the dignity of every person
-- [ ] **58. Loyalty** - Staying true to worthy commitments
-- [ ] **59. Confidentiality** - Protecting others' private matters
-- [ ] **60. Professional Ethics** - Maintaining high standards in work
+- [x] **41. Evil Speech** - Avoiding harmful words and gossip
+- [x] **42. Guarding Eyes** - Protecting your mind from corrupting influences
+- [x] **43. Pornography** - Maintaining purity of thought and desire
+- [x] **44. Self-Pleasure** - Approaching sexuality with wisdom and restraint
+- [x] **45. Modesty** - Dressing and behaving with dignity
+- [x] **46. Wealth** - Pursuing and managing resources ethically
+- [x] **47. Technology** - Using digital tools wisely and purposefully
+- [x] **48. Environmental Stewardship** - Caring for our shared planet
+- [x] **49. Veganism** - Considering the ethics of our food choices
+- [x] **50. Pushing to Production on Friday** - Maintaining professional excellence
+- [x] **51. Intellectual Honesty** - Pursuing truth over comfort
+- [x] **52. Justice** - Standing up for what is right
+- [x] **53. Integrity** - Aligning actions with stated values
+- [x] **54. Accountability** - Taking responsibility for your choices
+- [x] **55. Transparency** - Being open and honest in dealings
+- [x] **56. Fairness** - Treating all people with equal consideration
+- [x] **57. Respect** - Honoring the dignity of every person
+- [x] **58. Loyalty** - Staying true to worthy commitments
+- [x] **59. Confidentiality** - Protecting others' private matters
+- [x] **60. Professional Ethics** - Maintaining high standards in work
 
 ### Spiritual and Philosophical (Pillars 61-80)
-- [ ] **61. Prayer** - Connecting with transcendent meaning
-- [ ] **62. Meditation** - Cultivating inner peace and clarity
-- [ ] **63. Philosophy** - Engaging with life's deepest questions
-- [ ] **64. Meaning-Making** - Creating purpose from existence
-- [ ] **65. Legacy** - Building something that outlasts your lifetime
-- [ ] **66. Generational Thinking** - Considering impact on future generations
-- [ ] **67. Cultural Appreciation** - Respecting diverse human traditions
-- [ ] **68. Scientific Literacy** - Understanding our universe through reason
-- [ ] **69. Critical Thinking** - Evaluating information and arguments carefully
-- [ ] **70. Ethical Decision-Making** - Choosing right action in complex situations
-- [ ] **71. Moral Courage** - Standing for principles despite cost
-- [ ] **72. Transcendence** - Rising above immediate concerns
-- [ ] **73. Interconnectedness** - Recognizing our place in the web of existence
-- [ ] **74. Impermanence** - Accepting the temporary nature of all things
-- [ ] **75. Growth Mindset** - Embracing challenges as opportunities
-- [ ] **76. Service** - Contributing to something greater than yourself
-- [ ] **77. Sacrifice** - Giving up lesser goods for greater ones
-- [ ] **78. Hope** - Maintaining optimism in the face of uncertainty
-- [ ] **79. Peace** - Cultivating inner and outer harmony
-- [ ] **80. Fulfillment** - Living a life of deep satisfaction and meaning
+- [x] **61. Prayer** - Connecting with transcendent meaning
+- [x] **62. Meditation** - Cultivating inner peace and clarity
+- [x] **63. Philosophy** - Engaging with life's deepest questions
+- [x] **64. Meaning-Making** - Creating purpose from existence
+- [x] **65. Legacy** - Building something that outlasts your lifetime
+- [x] **66. Generational Thinking** - Considering impact on future generations
+- [x] **67. Cultural Appreciation** - Respecting diverse human traditions
+- [x] **68. Scientific Literacy** - Understanding our universe through reason
+- [x] **69. Critical Thinking** - Evaluating information and arguments carefully
+- [x] **70. Ethical Decision-Making** - Choosing right action in complex situations
+- [x] **71. Moral Courage** - Standing for principles despite cost
+- [x] **72. Transcendence** - Rising above immediate concerns
+- [x] **73. Interconnectedness** - Recognizing our place in the web of existence
+- [x] **74. Impermanence** - Accepting the temporary nature of all things
+- [x] **75. Growth Mindset** - Embracing challenges as opportunities
+- [x] **76. Service** - Contributing to something greater than yourself
+- [x] **77. Sacrifice** - Giving up lesser goods for greater ones
+- [x] **78. Hope** - Maintaining optimism in the face of uncertainty
+- [x] **79. Peace** - Cultivating inner and outer harmony
+- [x] **80. Fulfillment** - Living a life of deep satisfaction and meaning
 
 ## Using This Roadmap
 

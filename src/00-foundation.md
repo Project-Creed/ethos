@@ -5,7 +5,7 @@ The foundation of ethosism is the golden rule: Treat others as you would want to
 Excellence in self directly impacts others. Your personal growth becomes a gift to those around you.
 
 ## How do we maintain objectivity with Golden Rule?
-The ethosian approach towards maintaining objectivity with the golden rule is having a heightened awareness for the other. This translates to excellence of self - if you aren't striving for greatness, this impacts others.
+The Ethosian approach towards maintaining objectivity with the golden rule is having a heightened awareness for the other. This translates to excellence of self - if you aren't striving for greatness, this impacts others.
 
 ## Why This Foundation Matters
 - **Self-improvement isn't selfish** - It's your responsibility to others

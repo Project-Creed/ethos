@@ -11,7 +11,7 @@ Excellence in self directly impacts others. In the long term view of humanity yo
 humanity long term.
 
 ## Objectivity with Golden Rule?
-The Ethosian approach towards maintaining objectivity with the golden rule is having a heightened awareness for the other. Being that how impacts others is the guiding principle, we are able to assess on a situation per situation basis, objectively what is the right approach. This translates to excellence of self - if you aren't striving for greatness, this impacts others.
+The Ethosian approach towards maintaining objectivity with the golden rule is having a heightened awareness for the other. Being that how one impacts others is the guiding principle, we are able to assess on a situation per situation basis, objectively what is the right approach. This translates to excellence of self - if you aren't striving for greatness, this impacts others.
 
 ## Why This Foundation Matters
 - **Self-improvement isn't selfish** - It's your responsibility to others

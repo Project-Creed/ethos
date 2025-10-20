@@ -7,7 +7,7 @@ what the golden rule can be used as a guide for life. So let's start.
 The foundation of ethosism is the golden rule: Treat others as you would want to be treated by them. Using this guiding principle, we are able to formulate a set of principles that make sense as the north star for humanity.
 
 ## Core Principle
-Excellence in self directly impacts others. In the long term view of humanity your personal growth impacts infinity. You personal growth should be heavily influenced by how it impacts 
+Excellence in self directly impacts others. In the long term view of humanity your personal growth impacts infinity. Your personal growth should be heavily influenced by how it impacts 
 humanity long term.
 
 ## Objectivity with Golden Rule?

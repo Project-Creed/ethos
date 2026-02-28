@@ -1,4 +1,4 @@
-# Self-Reflection — Pillar 15
+# Self-Reflection
 
 Most people who think they are reflecting on themselves are actually just rehearsing their existing story about themselves.
 

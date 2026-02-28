@@ -1,4 +1,4 @@
-# Discipline — Pillar 2
+# Discipline
 
 Every value you hold is only as real as your behavior.
 

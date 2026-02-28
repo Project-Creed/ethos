@@ -1,4 +1,4 @@
-# Purpose — Pillar 1
+# Purpose
 
 Purpose is the decision to take your life seriously.
 

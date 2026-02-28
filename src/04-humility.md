@@ -1,4 +1,4 @@
-# Humility — Pillar 3
+# Humility
 
 Arrogance and self-erasure are both forms of dishonesty — one inflates the self, the other disappears it. Humility is neither. Humility is accurate self-assessment, and it is harder than either extreme.
 

@@ -1,4 +1,4 @@
-# Creativity — Pillar 9
+# Creativity
 
 An idea that is never executed is not a creative act. It is a thought, which is a much smaller thing.
 

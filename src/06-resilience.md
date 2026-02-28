@@ -1,4 +1,4 @@
-# Resilience — Pillar 5
+# Resilience
 
 Difficulty is not a departure from normal life. It is a feature of it, and a person who hasn't prepared for it will be surprised every time.
 

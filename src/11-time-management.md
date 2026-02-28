@@ -1,4 +1,4 @@
-# Time Management — Pillar 10
+# Time Management
 
 How you spend your time is not a logistical question. It is a moral one.
 

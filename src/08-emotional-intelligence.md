@@ -1,4 +1,4 @@
-# Emotional Intelligence — Pillar 7
+# Emotional Intelligence
 
 An emotion is not a verdict. It is a signal — one that requires interpretation before it earns a response.
 

@@ -1,4 +1,4 @@
-# Patience — Pillar 16
+# Patience
 
 Patience is not the same thing as waiting. Waiting is passive. Patience is the sustained application of effort toward something that will not resolve on your preferred timeline.
 

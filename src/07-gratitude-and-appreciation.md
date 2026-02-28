@@ -1,4 +1,4 @@
-# Gratitude and Appreciation — Pillar 6
+# Gratitude and Appreciation
 
 Gratitude without acknowledgment of debt is just a pleasant feeling. The version of gratitude worth practicing is harder than that — it requires honest accounting.
 

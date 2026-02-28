@@ -1,4 +1,4 @@
-# Honesty — Pillar 4
+# Honesty
 
 A half-truth is a lie with better cover. The person who knows this and still reaches for the partial truth has not found a compromise between honesty and dishonesty — they have chosen dishonesty and dressed it respectably.
 

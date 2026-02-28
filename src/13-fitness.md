@@ -1,4 +1,4 @@
-# Fitness — Pillar 12
+# Fitness
 
 The body is the instrument through which everything else happens. Neglect the instrument, and everything else performs worse.
 

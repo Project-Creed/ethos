@@ -1,4 +1,4 @@
-# Learning — Pillar 8
+# Learning
 
 A mind that is not changing is not keeping up. Reality does not stay still, and neither can the person trying to navigate it well.
 

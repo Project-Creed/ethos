@@ -24,12 +24,12 @@ export default function ChaptersIndex() {
   return (
     <div className="space-y-8">
       {/* Header */}
-      <div className="rounded-2xl border border-[#1c2338] bg-[#0d1019] p-7">
+      <div className="rounded-2xl border border-[#e4ddd2] bg-white p-7">
         <p className="text-[10px] font-bold uppercase tracking-[0.22em] text-slate-500">
           Ethos
         </p>
-        <h1 className="mt-2 text-3xl font-bold text-white">All Chapters</h1>
-        <p className="mt-2 max-w-lg text-sm leading-relaxed text-slate-400">
+        <h1 className="mt-2 text-3xl font-bold text-slate-900">All Chapters</h1>
+        <p className="mt-2 max-w-lg text-sm leading-relaxed text-slate-600">
           82 chapters covering personal development, relationships, ethics, society, and the
           philosophical questions of a well-lived life.
         </p>
@@ -37,20 +37,20 @@ export default function ChaptersIndex() {
 
       {/* Chapter list */}
       {chapters.length === 0 ? (
-        <p className="text-slate-400">No chapters found.</p>
+        <p className="text-slate-500">No chapters found.</p>
       ) : (
         <div className="grid gap-3 sm:grid-cols-2">
           {chapters.map((chapter) => (
             <Link
               key={chapter.slug}
               to={`/chapters/${chapter.slug}`}
-              className="group flex items-start gap-4 rounded-2xl border border-[#1c2338] bg-[#0d1019] p-5 transition-colors hover:border-amber-500/30"
+              className="group flex items-start gap-4 rounded-2xl border border-[#e4ddd2] bg-white p-5 transition-colors hover:border-amber-400/40"
             >
-              <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border border-[#1c2338] bg-[#10131f] text-[11px] font-bold text-slate-500 group-hover:border-amber-500/25 group-hover:text-amber-400 transition-colors">
+              <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border border-[#e4ddd2] bg-[#f0ebe1] text-[11px] font-bold text-slate-500 group-hover:border-amber-400/30 group-hover:text-amber-700 transition-colors">
                 {String(chapter.order).padStart(2, "0")}
               </span>
               <div className="min-w-0">
-                <h2 className="text-sm font-bold leading-snug text-white group-hover:text-amber-400 transition-colors">
+                <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-amber-700 transition-colors">
                   {chapter.title}
                 </h2>
                 <p className="mt-1 text-xs leading-relaxed text-slate-500 line-clamp-2">

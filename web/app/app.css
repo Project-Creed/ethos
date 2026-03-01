@@ -18,15 +18,15 @@
 
 :root {
   --radius: 0.625rem;
-  --background: #07080d;
-  --foreground: #e8ecf4;
-  --card: #0d1019;
-  --card-foreground: #e8ecf4;
-  --primary: #c9a84c;
-  --primary-foreground: #0a0800;
-  --muted: #10131f;
-  --muted-foreground: #55607a;
-  --border: #1c2338;
+  --background: #f9f7f3;
+  --foreground: #1c1a17;
+  --card: #ffffff;
+  --card-foreground: #1c1a17;
+  --primary: #b07d12;
+  --primary-foreground: #ffffff;
+  --muted: #f0ebe1;
+  --muted-foreground: #6b6050;
+  --border: #e4ddd2;
   font-family: ui-sans-serif, system-ui, sans-serif;
   line-height: 1.5;
 }
@@ -40,8 +40,8 @@ body {
   background: var(--background);
   color: var(--foreground);
   background-image:
-    radial-gradient(ellipse 65% 42% at 12% 0%, rgba(201, 168, 76, 0.055) 0%, transparent 65%),
-    radial-gradient(ellipse 50% 38% at 88% 100%, rgba(79, 70, 229, 0.045) 0%, transparent 60%);
+    radial-gradient(ellipse 65% 42% at 12% 0%, rgba(201, 168, 76, 0.09) 0%, transparent 65%),
+    radial-gradient(ellipse 50% 38% at 88% 100%, rgba(79, 70, 229, 0.05) 0%, transparent 60%);
   min-height: 100vh;
 }
 
@@ -103,22 +103,22 @@ a {
 }
 
 code {
-  background: #1c2338;
+  background: #f0ebe1;
   padding: 0.1rem 0.3rem;
   border-radius: 4px;
-  color: #e0b84a;
+  color: #92640a;
 }
 
 /* ── Blog / chapter prose styles ─────────────────── */
 .prose {
-  color: #c8d2e4;
+  color: #374151;
   font-size: 0.9375rem;
   line-height: 1.8;
   max-width: 68ch;
 }
 
 .prose h1 {
-  color: #f1f5f9;
+  color: #111827;
   font-size: 1.75rem;
   font-weight: 700;
   margin-top: 0;
@@ -127,7 +127,7 @@ code {
 }
 
 .prose h2 {
-  color: #f1f5f9;
+  color: #111827;
   font-size: 1.35rem;
   font-weight: 700;
   margin-top: 2.25rem;
@@ -136,7 +136,7 @@ code {
 }
 
 .prose h3 {
-  color: #e2e8f0;
+  color: #1f2937;
   font-size: 1.1rem;
   font-weight: 600;
   margin-top: 1.75rem;
@@ -168,44 +168,44 @@ code {
 }
 
 .prose strong {
-  color: #f1f5f9;
+  color: #111827;
   font-weight: 600;
 }
 
 .prose em {
   font-style: italic;
-  color: #dde4f0;
+  color: #374151;
 }
 
 .prose a {
-  color: #c9a84c;
+  color: #b07d12;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
 
 .prose a:hover {
-  color: #e0c060;
+  color: #92640a;
 }
 
 .prose blockquote {
   border-left: 3px solid #c9a84c;
   padding-left: 1rem;
-  color: #8a96b0;
+  color: #6b7280;
   font-style: italic;
   margin: 1.5rem 0;
 }
 
 .prose hr {
   border: none;
-  border-top: 1px solid #1c2338;
+  border-top: 1px solid #e4ddd2;
   margin: 2.25rem 0;
 }
 
 .prose code {
-  background: #1c2338;
+  background: #f0ebe1;
   padding: 0.1rem 0.3rem;
   border-radius: 4px;
-  color: #e0b84a;
+  color: #92640a;
   font-size: 0.85em;
 }
 

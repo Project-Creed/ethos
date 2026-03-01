@@ -49,27 +49,27 @@ export default function ChapterPost() {
     <div className="space-y-6">
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-xs text-slate-500">
-        <Link to="/" className="hover:text-slate-300 transition-colors">
+        <Link to="/" className="hover:text-slate-700 transition-colors">
           Home
         </Link>
         <span>/</span>
-        <Link to="/chapters" className="hover:text-slate-300 transition-colors">
+        <Link to="/chapters" className="hover:text-slate-700 transition-colors">
           Chapters
         </Link>
         <span>/</span>
-        <span className="text-slate-400 truncate">{chapter.title}</span>
+        <span className="text-slate-600 truncate">{chapter.title}</span>
       </nav>
 
       {/* Article */}
-      <article className="rounded-2xl border border-[#1c2338] bg-[#0d1019] p-7 sm:p-10">
-        <header className="mb-8 border-b border-[#1c2338] pb-8">
-          <p className="text-[11px] font-medium text-amber-400/70">
+      <article className="rounded-2xl border border-[#e4ddd2] bg-white p-7 sm:p-10">
+        <header className="mb-8 border-b border-[#e4ddd2] pb-8">
+          <p className="text-[11px] font-medium text-amber-700/70">
             Chapter {String(chapter.order).padStart(2, "0")}
           </p>
-          <h1 className="mt-3 text-3xl font-bold leading-tight text-white sm:text-4xl">
+          <h1 className="mt-3 text-3xl font-bold leading-tight text-slate-900 sm:text-4xl">
             {chapter.title}
           </h1>
-          <p className="mt-3 text-base leading-relaxed text-slate-400">{chapter.description}</p>
+          <p className="mt-3 text-base leading-relaxed text-slate-600">{chapter.description}</p>
         </header>
 
         <div
@@ -83,12 +83,12 @@ export default function ChapterPost() {
         {prev ? (
           <Link
             to={`/chapters/${prev.slug}`}
-            className="group flex items-center gap-3 rounded-xl border border-[#1c2338] bg-[#0d1019] p-4 transition-colors hover:border-amber-500/30"
+            className="group flex items-center gap-3 rounded-xl border border-[#e4ddd2] bg-white p-4 transition-colors hover:border-amber-400/40"
           >
-            <span className="text-lg text-slate-500 group-hover:text-amber-400 transition-colors">←</span>
+            <span className="text-lg text-slate-500 group-hover:text-amber-700 transition-colors">←</span>
             <div>
               <p className="text-[10px] text-slate-500">Previous chapter</p>
-              <p className="text-sm font-semibold text-slate-200 group-hover:text-white transition-colors">
+              <p className="text-sm font-semibold text-slate-700 group-hover:text-slate-900 transition-colors">
                 {prev.title}
               </p>
             </div>
@@ -99,15 +99,15 @@ export default function ChapterPost() {
         {next ? (
           <Link
             to={`/chapters/${next.slug}`}
-            className="group flex items-center justify-end gap-3 rounded-xl border border-[#1c2338] bg-[#0d1019] p-4 text-right transition-colors hover:border-amber-500/30 sm:col-start-2"
+            className="group flex items-center justify-end gap-3 rounded-xl border border-[#e4ddd2] bg-white p-4 text-right transition-colors hover:border-amber-400/40 sm:col-start-2"
           >
             <div>
               <p className="text-[10px] text-slate-500">Next chapter</p>
-              <p className="text-sm font-semibold text-slate-200 group-hover:text-white transition-colors">
+              <p className="text-sm font-semibold text-slate-700 group-hover:text-slate-900 transition-colors">
                 {next.title}
               </p>
             </div>
-            <span className="text-lg text-slate-500 group-hover:text-amber-400 transition-colors">→</span>
+            <span className="text-lg text-slate-500 group-hover:text-amber-700 transition-colors">→</span>
           </Link>
         ) : null}
       </nav>
@@ -123,10 +123,10 @@ export default function ChapterPost() {
               <Link
                 key={c.slug}
                 to={`/chapters/${c.slug}`}
-                className="group rounded-xl border border-[#1c2338] bg-[#0d1019] p-4 transition-colors hover:border-amber-500/30"
+                className="group rounded-xl border border-[#e4ddd2] bg-white p-4 transition-colors hover:border-amber-400/40"
               >
                 <p className="text-[11px] text-slate-500">Chapter {String(c.order).padStart(2, "0")}</p>
-                <p className="mt-1.5 text-sm font-semibold text-slate-200 leading-snug group-hover:text-white transition-colors">
+                <p className="mt-1.5 text-sm font-semibold text-slate-700 leading-snug group-hover:text-slate-900 transition-colors">
                   {c.title}
                 </p>
                 <p className="mt-2 text-xs text-slate-500 line-clamp-2 leading-relaxed">
@@ -139,9 +139,9 @@ export default function ChapterPost() {
       )}
 
       {/* CTA */}
-      <div className="rounded-2xl border border-amber-500/20 bg-amber-500/5 p-7 text-center">
-        <p className="text-base font-bold text-white">Continue reading Ethos</p>
-        <p className="mt-2 text-sm leading-relaxed text-slate-400">
+      <div className="rounded-2xl border border-amber-400/30 bg-amber-50 p-7 text-center">
+        <p className="text-base font-bold text-slate-900">Continue reading Ethos</p>
+        <p className="mt-2 text-sm leading-relaxed text-slate-600">
           82 chapters covering every domain of a well-lived life. Free to read.
         </p>
         <Link
@@ -155,7 +155,7 @@ export default function ChapterPost() {
       {/* Back link */}
       <Link
         to="/chapters"
-        className="block text-sm text-slate-500 hover:text-slate-300 transition-colors"
+        className="block text-sm text-slate-500 hover:text-slate-700 transition-colors"
       >
         ← Back to all chapters
       </Link>

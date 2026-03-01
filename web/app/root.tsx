@@ -30,14 +30,16 @@ export default function App() {
     <div className="app-shell">
       {/* Ambient background orbs */}
       <div className="pointer-events-none fixed inset-0 overflow-hidden" aria-hidden="true">
-        <div className="absolute -left-48 -top-48 h-[700px] w-[700px] rounded-full bg-amber-400/10 blur-[140px]" />
-        <div className="absolute -bottom-48 -right-48 h-[600px] w-[600px] rounded-full bg-indigo-400/6 blur-[120px]" />
+        <div className="absolute -left-48 -top-48 h-[700px] w-[700px] rounded-full bg-amber-400/5 blur-[140px]" />
+        <div className="absolute -bottom-48 -right-48 h-[600px] w-[600px] rounded-full bg-indigo-400/5 blur-[120px]" />
       </div>
 
       <header className="top-bar relative z-10">
         <a href="/" className="flex items-center gap-3">
           <div className="flex h-9 w-9 items-center justify-center rounded-xl border border-amber-400/40 bg-amber-50">
-            <span className="text-base font-bold text-amber-600">E</span>
+            <svg viewBox="0 0 16 16" className="h-5 w-5 fill-amber-600" aria-hidden="true">
+              <path d="M8 1.5L9.56 6.44L14.5 8L9.56 9.56L8 14.5L6.44 9.56L1.5 8L6.44 6.44Z" />
+            </svg>
           </div>
           <div>
             <p className="m-0 text-[10px] font-bold uppercase tracking-[0.24em] text-slate-500">
@@ -60,11 +62,13 @@ export default function App() {
         <Outlet />
       </main>
 
-      <footer className="relative z-10 mt-16 border-t border-[#e4ddd2] pb-8 pt-8">
+      <footer className="relative z-10 mt-16 border-t border-[#e1e6f0] pb-8 pt-8">
         <div className="flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between">
           <div className="flex items-center gap-2.5">
             <div className="flex h-8 w-8 items-center justify-center rounded-lg border border-amber-400/30 bg-amber-50">
-              <span className="text-sm font-bold text-amber-600">E</span>
+              <svg viewBox="0 0 16 16" className="h-4 w-4 fill-amber-600" aria-hidden="true">
+                <path d="M8 1.5L9.56 6.44L14.5 8L9.56 9.56L8 14.5L6.44 9.56L1.5 8L6.44 6.44Z" />
+              </svg>
             </div>
             <div>
               <p className="text-base font-bold text-slate-900">Ethos</p>
@@ -80,7 +84,7 @@ export default function App() {
           </div>
         </div>
 
-        <div className="mt-6 flex flex-col gap-2 border-t border-[#e4ddd2] pt-6 sm:flex-row sm:items-center sm:justify-between">
+        <div className="mt-6 flex flex-col gap-2 border-t border-[#e1e6f0] pt-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-xs text-slate-500">
             &copy; {new Date().getFullYear()} Ethos. Licensed under{" "}
             <span className="text-slate-500">CC BY-NC-ND 4.0</span>.

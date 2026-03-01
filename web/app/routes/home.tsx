@@ -69,7 +69,7 @@ export default function HomePage() {
         {STATS.map(({ value, label }) => (
           <div
             key={label}
-            className="rounded-xl border border-[#e4ddd2] bg-white px-4 py-3 text-center"
+            className="rounded-xl border border-[#e1e6f0] bg-white px-4 py-3 text-center"
           >
             <p className="text-2xl font-bold text-amber-700">{value}</p>
             <p className="mt-0.5 text-[11px] text-slate-500">{label}</p>
@@ -78,9 +78,9 @@ export default function HomePage() {
       </div>
 
       {/* Hero */}
-      <section className="relative overflow-hidden rounded-2xl border border-[#e4ddd2] bg-white p-8 shadow-sm sm:p-12">
-        <div className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-amber-400/10 blur-3xl" />
-        <div className="pointer-events-none absolute -bottom-16 -left-16 h-56 w-56 rounded-full bg-indigo-400/6 blur-3xl" />
+      <section className="relative overflow-hidden rounded-2xl border border-[#e1e6f0] bg-white p-8 shadow-sm sm:p-12">
+        <div className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-amber-400/5 blur-3xl" />
+        <div className="pointer-events-none absolute -bottom-16 -left-16 h-56 w-56 rounded-full bg-indigo-400/5 blur-3xl" />
 
         <div className="relative max-w-2xl">
           <span className="inline-flex items-center gap-2 rounded-full border border-amber-400/30 bg-amber-50 px-3.5 py-1.5 text-xs font-semibold tracking-wide text-amber-700">
@@ -114,7 +114,7 @@ export default function HomePage() {
             </Link>
             <Link
               to="/chapters/introduction"
-              className="rounded-xl border border-[#e4ddd2] px-6 py-3 text-sm font-medium text-slate-700 hover:border-amber-400/40 hover:text-slate-900 transition-colors"
+              className="rounded-xl border border-[#e1e6f0] px-6 py-3 text-sm font-medium text-slate-700 hover:border-amber-400/40 hover:text-slate-900 transition-colors"
             >
               Start with the Introduction
             </Link>
@@ -131,7 +131,7 @@ export default function HomePage() {
           {PILLARS.map(({ label, chapters, description }) => (
             <div
               key={label}
-              className="rounded-2xl border border-[#e4ddd2] bg-white p-5"
+              className="rounded-2xl border border-[#e1e6f0] bg-white p-5"
             >
               <p className="text-xs font-bold uppercase tracking-wider text-amber-700">{label}</p>
               <p className="mt-2 text-sm font-semibold leading-snug text-slate-800">{description}</p>
@@ -151,7 +151,7 @@ export default function HomePage() {
             <Link
               key={slug}
               to={`/chapters/${slug}`}
-              className="group block rounded-2xl border border-[#e4ddd2] bg-white p-5 transition-colors hover:border-amber-400/40"
+              className="group block rounded-2xl border border-[#e1e6f0] bg-white p-5 transition-colors hover:border-amber-400/40"
             >
               <h3 className="text-base font-bold text-slate-900 group-hover:text-amber-700 transition-colors">
                 {title}
@@ -167,7 +167,7 @@ export default function HomePage() {
 
       {/* What this is / is not */}
       <section className="grid gap-4 sm:grid-cols-2">
-        <div className="rounded-2xl border border-[#e4ddd2] bg-white p-6">
+        <div className="rounded-2xl border border-[#e1e6f0] bg-white p-6">
           <p className="text-[10px] font-bold uppercase tracking-[0.22em] text-emerald-700">
             What Ethos Is
           </p>
@@ -186,7 +186,7 @@ export default function HomePage() {
             ))}
           </ul>
         </div>
-        <div className="rounded-2xl border border-[#e4ddd2] bg-white p-6">
+        <div className="rounded-2xl border border-[#e1e6f0] bg-white p-6">
           <p className="text-[10px] font-bold uppercase tracking-[0.22em] text-slate-500">
             What Ethos Is Not
           </p>

@@ -24,7 +24,7 @@ export default function ChaptersIndex() {
   return (
     <div className="space-y-8">
       {/* Header */}
-      <div className="rounded-2xl border border-[#e4ddd2] bg-white p-7">
+      <div className="rounded-2xl border border-[#e1e6f0] bg-white p-7">
         <p className="text-[10px] font-bold uppercase tracking-[0.22em] text-slate-500">
           Ethos
         </p>
@@ -44,9 +44,9 @@ export default function ChaptersIndex() {
             <Link
               key={chapter.slug}
               to={`/chapters/${chapter.slug}`}
-              className="group flex items-start gap-4 rounded-2xl border border-[#e4ddd2] bg-white p-5 transition-colors hover:border-amber-400/40"
+              className="group flex items-start gap-4 rounded-2xl border border-[#e1e6f0] bg-white p-5 transition-colors hover:border-amber-400/40"
             >
-              <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border border-[#e4ddd2] bg-[#f0ebe1] text-[11px] font-bold text-slate-500 group-hover:border-amber-400/30 group-hover:text-amber-700 transition-colors">
+              <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border border-[#e1e6f0] bg-[#edf0f7] text-[11px] font-bold text-slate-500 group-hover:border-amber-400/30 group-hover:text-amber-700 transition-colors">
                 {String(chapter.order).padStart(2, "0")}
               </span>
               <div className="min-w-0">

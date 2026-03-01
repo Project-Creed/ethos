@@ -18,15 +18,15 @@
 
 :root {
   --radius: 0.625rem;
-  --background: #f9f7f3;
-  --foreground: #1c1a17;
+  --background: #f7f8fb;
+  --foreground: #111827;
   --card: #ffffff;
-  --card-foreground: #1c1a17;
+  --card-foreground: #111827;
   --primary: #b07d12;
   --primary-foreground: #ffffff;
-  --muted: #f0ebe1;
-  --muted-foreground: #6b6050;
-  --border: #e4ddd2;
+  --muted: #edf0f7;
+  --muted-foreground: #64748b;
+  --border: #e1e6f0;
   font-family: ui-sans-serif, system-ui, sans-serif;
   line-height: 1.5;
 }
@@ -40,8 +40,8 @@ body {
   background: var(--background);
   color: var(--foreground);
   background-image:
-    radial-gradient(ellipse 65% 42% at 12% 0%, rgba(201, 168, 76, 0.09) 0%, transparent 65%),
-    radial-gradient(ellipse 50% 38% at 88% 100%, rgba(79, 70, 229, 0.05) 0%, transparent 60%);
+    radial-gradient(ellipse 65% 42% at 12% 0%, rgba(201, 168, 76, 0.03) 0%, transparent 65%),
+    radial-gradient(ellipse 50% 38% at 88% 100%, rgba(99, 102, 241, 0.04) 0%, transparent 60%);
   min-height: 100vh;
 }
 
@@ -103,7 +103,7 @@ a {
 }
 
 code {
-  background: #f0ebe1;
+  background: #edf0f7;
   padding: 0.1rem 0.3rem;
   border-radius: 4px;
   color: #92640a;
@@ -197,12 +197,12 @@ code {
 
 .prose hr {
   border: none;
-  border-top: 1px solid #e4ddd2;
+  border-top: 1px solid #e1e6f0;
   margin: 2.25rem 0;
 }
 
 .prose code {
-  background: #f0ebe1;
+  background: #edf0f7;
   padding: 0.1rem 0.3rem;
   border-radius: 4px;
   color: #92640a;

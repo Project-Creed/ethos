@@ -61,8 +61,8 @@ export default function ChapterPost() {
       </nav>
 
       {/* Article */}
-      <article className="rounded-2xl border border-[#e4ddd2] bg-white p-7 sm:p-10">
-        <header className="mb-8 border-b border-[#e4ddd2] pb-8">
+      <article className="rounded-2xl border border-[#e1e6f0] bg-white p-7 sm:p-10">
+        <header className="mb-8 border-b border-[#e1e6f0] pb-8">
           <p className="text-[11px] font-medium text-amber-700/70">
             Chapter {String(chapter.order).padStart(2, "0")}
           </p>
@@ -83,7 +83,7 @@ export default function ChapterPost() {
         {prev ? (
           <Link
             to={`/chapters/${prev.slug}`}
-            className="group flex items-center gap-3 rounded-xl border border-[#e4ddd2] bg-white p-4 transition-colors hover:border-amber-400/40"
+            className="group flex items-center gap-3 rounded-xl border border-[#e1e6f0] bg-white p-4 transition-colors hover:border-amber-400/40"
           >
             <span className="text-lg text-slate-500 group-hover:text-amber-700 transition-colors">←</span>
             <div>
@@ -99,7 +99,7 @@ export default function ChapterPost() {
         {next ? (
           <Link
             to={`/chapters/${next.slug}`}
-            className="group flex items-center justify-end gap-3 rounded-xl border border-[#e4ddd2] bg-white p-4 text-right transition-colors hover:border-amber-400/40 sm:col-start-2"
+            className="group flex items-center justify-end gap-3 rounded-xl border border-[#e1e6f0] bg-white p-4 text-right transition-colors hover:border-amber-400/40 sm:col-start-2"
           >
             <div>
               <p className="text-[10px] text-slate-500">Next chapter</p>
@@ -123,7 +123,7 @@ export default function ChapterPost() {
               <Link
                 key={c.slug}
                 to={`/chapters/${c.slug}`}
-                className="group rounded-xl border border-[#e4ddd2] bg-white p-4 transition-colors hover:border-amber-400/40"
+                className="group rounded-xl border border-[#e1e6f0] bg-white p-4 transition-colors hover:border-amber-400/40"
               >
                 <p className="text-[11px] text-slate-500">Chapter {String(c.order).padStart(2, "0")}</p>
                 <p className="mt-1.5 text-sm font-semibold text-slate-700 leading-snug group-hover:text-slate-900 transition-colors">

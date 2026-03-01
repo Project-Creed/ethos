@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "dev": "cd web && npm run dev",
     "build": "tsc",
     "pdf": "ts-node lib/index.ts --pdf",
     "kindle": "ts-node lib/index.ts --kindle",

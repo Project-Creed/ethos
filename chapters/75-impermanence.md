@@ -1,0 +1,22 @@
+# Impermanence
+
+Everything you currently have, you are borrowing.
+
+The relationships, the health, the work you're proud of, the particular texture of your daily life — none of it is permanent, and at some level you already know this, even when you act as though it isn't true. The Buddhist and Stoic traditions arrived at the same insight through different routes: that the failure to reckon with impermanence is not just philosophically incomplete, it is practically costly. It costs you presence. It costs you your relationship to loss. It shapes the way you hold what you love.
+
+The Stoics practiced what they called negative visualization — deliberately imagining the absence of what you value in order to appreciate it while you have it. Not as an exercise in anxiety, but as an antidote to the numbness that familiarity produces. The Buddhist concept of anicca — impermanence as a fundamental characteristic of all conditioned phenomena — points in the same direction. These are not adjacent ideas that happen to rhyme. They are independent discoveries of the same structural truth.
+
+Here is what that truth looks like practically. When you understand that a phase of life is a phase — that this particular version of your family, your health, your city, your work will not last — you tend to pay more attention to it. Not with dread, but with something closer to care. The parent who knows that the child will not be this age again inhabits those ordinary evenings differently. The professional who knows that this particular team, this particular collaboration, will eventually scatter holds the work differently. Impermanence is not a reason to detach. It is a reason to show up more fully.
+
+The resistance to this understanding is understandable. Accepting that things end requires a kind of emotional maturity that runs against the grain of how we are wired. We habituate, we assume continuity, we plan for futures as if the present conditions are the permanent baseline. And then things change, as they always do, and the grief that follows is partly the grief of the thing itself and partly the grief of having lived as though it couldn't happen. The second part is optional.
+
+Loss is where impermanence becomes most difficult, and most important. When something ends — a relationship, a career, a person, a version of yourself — the question is not whether to grieve. Grief is appropriate; it is the accurate response to real loss. The question is what narrative you build around it. People who hold impermanence honestly tend to grieve and then return. People who were living as though things were permanent tend to get stuck not just in the loss but in the shock of it, the sense that the world violated a promise it never actually made.
+
+Ambition is also changed by this understanding, and not in the direction most people fear. The worry is that accepting impermanence will erode motivation — if it all ends anyway, why build anything? But this gets it backwards. The things worth building are worth building precisely because they are finite and because the window to build them is finite. A life lived with awareness of its own brevity is not a life drained of urgency. It is a life with urgency properly allocated — toward what actually matters, away from what is merely comfortable or expected.
+
+The relationship to the present moment is perhaps the most practical consequence. Most suffering about future events is suffering about things that have not yet happened and may not happen in the form imagined. Most suffering about past events is suffering about things that cannot be changed. The present is where life actually occurs, and impermanence — properly understood — is an argument for being in it. Not as a mystical prescription, but as a logical one. This moment is available to you. The next one is not guaranteed. The last one is gone.
+
+None of this requires becoming serene about everything or performing equanimity you don't feel. It does not ask you to be unaffected by loss or indifferent to outcomes. What it asks is more specific: to hold what you have without the desperate grip that comes from pretending it is permanent, and to release what has ended without the prolonged resistance that comes from pretending it should have stayed.
+
+Things end. That is not a flaw in the design. It is the design. Learning to live inside that fact, rather than in protest of it, is one of the more quietly radical things a person can do.
+

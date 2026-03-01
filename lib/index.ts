@@ -7,7 +7,7 @@ const args = process.argv.slice(2);
 const wantPdf    = args.includes('--pdf')    || args.includes('--all') || args.length === 0;
 const wantKindle = args.includes('--kindle') || args.includes('--all') || args.length === 0;
 
-const srcDir    = path.join(__dirname, '..', 'src');
+const srcDir    = path.join(__dirname, '..', 'chapters');
 const outputDir = path.join(__dirname, '..', 'output');
 const coverPath = path.join(__dirname, '..', 'media', 'ethosian-knight.jpeg');
 const epubPath  = path.join(outputDir, 'ethos.epub');

@@ -1,12 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 import { marked } from "marked";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-// web/app/lib -> web/app -> web -> project root -> chapters
-const CHAPTERS_DIR = path.join(__dirname, "..", "..", "..", "chapters");
+// In Lambda (production), chapters are bundled alongside the server build at process.cwd()/chapters/.
+// In local dev (running from web/), chapters live one level up at ../chapters/.
+const CHAPTERS_DIR =
+  process.env.NODE_ENV === "production"
+    ? path.join(process.cwd(), "chapters")
+    : path.join(process.cwd(), "..", "chapters");
 
 export interface ChapterMeta {
   slug: string;

@@ -1,0 +1,70 @@
+name: Deploy to Production
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write  # required for OIDC
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install app dependencies
+        run: npm ci
+        working-directory: web
+
+      # Generates build/server/index.js (SSR) + build/client/ (static assets)
+      - name: Build app
+        run: npm run build
+        working-directory: web
+
+      - name: Install CDK dependencies
+        run: npm ci
+        working-directory: web/cdk
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE_ARN }}
+          aws-region: us-east-1
+
+      - name: CDK bootstrap
+        run: npx cdk bootstrap
+        working-directory: web/cdk
+
+      - name: CDK deploy
+        run: npx cdk deploy --require-approval never --outputs-file outputs.json
+        working-directory: web/cdk
+
+      # Sync hashed JS/CSS bundles — 1-year immutable cache
+      - name: Sync assets to S3
+        run: |
+          BUCKET=$(jq -r '.EthosStack.BucketName' web/cdk/outputs.json)
+          aws s3 sync web/build/client/assets/ s3://$BUCKET/assets/ \
+            --delete \
+            --cache-control "public,max-age=31536000,immutable"
+
+      # Sync public files (favicon, etc.) — 1-day cache
+      - name: Sync public files to S3
+        run: |
+          BUCKET=$(jq -r '.EthosStack.BucketName' web/cdk/outputs.json)
+          aws s3 sync web/build/client/ s3://$BUCKET/ \
+            --delete \
+            --exclude "assets/*" \
+            --cache-control "public,max-age=86400"
+
+      - name: Invalidate CloudFront cache
+        run: |
+          DIST_ID=$(jq -r '.EthosStack.DistributionId' web/cdk/outputs.json)
+          aws cloudfront create-invalidation --distribution-id $DIST_ID --paths "/*"

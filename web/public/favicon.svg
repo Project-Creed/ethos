@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="8" fill="#0d1019"/>
-  <rect width="32" height="32" rx="8" fill="none" stroke="#c9a84c" stroke-width="1.5" stroke-opacity="0.4"/>
-  <text x="16" y="22" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700" fill="#c9a84c" text-anchor="middle">E</text>
+  <rect width="32" height="32" rx="7" fill="#111827"/>
+  <rect width="32" height="32" rx="7" fill="none" stroke="#c9a84c" stroke-width="1" stroke-opacity="0.5"/>
+  <polygon points="16,5 18.8,13.2 27,16 18.8,18.8 16,27 13.2,18.8 5,16 13.2,13.2" fill="#c9a84c"/>
 </svg>

@@ -49,15 +49,65 @@ const STATS = [
   { value: "Secular", label: "Framework" },
 ];
 
+const SITE = "https://ethosian.info";
+const OG_IMAGE = `${SITE}/og-image.svg`;
+const DESCRIPTION =
+  "Ethos is a secular framework for living with intention, integrity, and a long view. 82 chapters covering discipline, relationships, ethics, and meaning.";
+
 export function meta() {
   return [
     { title: "Ethos — A Framework for the Well-Lived Life" },
-    {
-      name: "description",
-      content:
-        "Ethos is a secular framework for living with intention, integrity, and a long view. 82 chapters covering discipline, relationships, ethics, and meaning.",
-    },
+    { name: "description", content: DESCRIPTION },
     { name: "robots", content: "index, follow" },
+    // Canonical
+    { tagName: "link", rel: "canonical", href: SITE },
+    // Open Graph
+    { property: "og:type", content: "website" },
+    { property: "og:url", content: SITE },
+    { property: "og:title", content: "Ethos — A Framework for the Well-Lived Life" },
+    { property: "og:description", content: DESCRIPTION },
+    { property: "og:image", content: OG_IMAGE },
+    { property: "og:image:width", content: "1200" },
+    { property: "og:image:height", content: "630" },
+    { property: "og:image:alt", content: "Ethos — A Secular Framework for the Well-Lived Life" },
+    // Twitter
+    { name: "twitter:card", content: "summary_large_image" },
+    { name: "twitter:title", content: "Ethos — A Framework for the Well-Lived Life" },
+    { name: "twitter:description", content: DESCRIPTION },
+    { name: "twitter:image", content: OG_IMAGE },
+    // JSON-LD
+    {
+      "script:ld+json": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        name: "Ethos",
+        url: SITE,
+        description: DESCRIPTION,
+        publisher: {
+          "@type": "Organization",
+          name: "Ethos",
+          url: SITE,
+        },
+      },
+    },
+    {
+      "script:ld+json": {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        name: "Ethos",
+        url: SITE,
+        description: DESCRIPTION,
+        numberOfPages: 82,
+        bookFormat: "https://schema.org/EBook",
+        inLanguage: "en",
+        accessMode: "textual",
+        isAccessibleForFree: true,
+        publisher: {
+          "@type": "Organization",
+          name: "Ethos",
+        },
+      },
+    },
   ];
 }
 

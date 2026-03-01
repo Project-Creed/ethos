@@ -1,15 +1,32 @@
 import { Link, useLoaderData } from "react-router";
 import { getAllChapters } from "@/lib/blog.server";
 
+const SITE = "https://ethosian.info";
+const OG_IMAGE = `${SITE}/og-image.svg`;
+const DESCRIPTION =
+  "All 82 chapters of Ethos — a secular framework for the well-lived life. Read about purpose, discipline, relationships, ethics, and meaning.";
+
 export function meta() {
   return [
     { title: "Chapters — Ethos" },
-    {
-      name: "description",
-      content:
-        "All 82 chapters of Ethos — a secular framework for the well-lived life. Read about purpose, discipline, relationships, ethics, and meaning.",
-    },
+    { name: "description", content: DESCRIPTION },
     { name: "robots", content: "index, follow" },
+    // Canonical
+    { tagName: "link", rel: "canonical", href: `${SITE}/chapters` },
+    // Open Graph
+    { property: "og:type", content: "website" },
+    { property: "og:url", content: `${SITE}/chapters` },
+    { property: "og:title", content: "Chapters — Ethos" },
+    { property: "og:description", content: DESCRIPTION },
+    { property: "og:image", content: OG_IMAGE },
+    { property: "og:image:width", content: "1200" },
+    { property: "og:image:height", content: "630" },
+    { property: "og:image:alt", content: "Ethos — A Secular Framework for the Well-Lived Life" },
+    // Twitter
+    { name: "twitter:card", content: "summary_large_image" },
+    { name: "twitter:title", content: "Chapters — Ethos" },
+    { name: "twitter:description", content: DESCRIPTION },
+    { name: "twitter:image", content: OG_IMAGE },
   ];
 }
 

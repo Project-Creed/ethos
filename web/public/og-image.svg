@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0c0e14"/>
+
+  <!-- Ambient glow top-left -->
+  <radialGradient id="gl" cx="15%" cy="0%" r="55%">
+    <stop offset="0%" stop-color="#c9a84c" stop-opacity="0.12"/>
+    <stop offset="100%" stop-color="#c9a84c" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1200" height="630" fill="url(#gl)"/>
+
+  <!-- Ambient glow bottom-right -->
+  <radialGradient id="gr" cx="85%" cy="100%" r="45%">
+    <stop offset="0%" stop-color="#6366f1" stop-opacity="0.08"/>
+    <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1200" height="630" fill="url(#gr)"/>
+
+  <!-- Four-pointed star, centered at (600, 210) -->
+  <polygon
+    points="600,125 622,188 685,210 622,232 600,295 578,232 515,210 578,188"
+    fill="#c9a84c"
+  />
+
+  <!-- Ethos wordmark -->
+  <text
+    x="600" y="390"
+    font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+    font-size="108"
+    font-weight="700"
+    fill="#ffffff"
+    text-anchor="middle"
+    letter-spacing="-3"
+  >Ethos</text>
+
+  <!-- Tagline -->
+  <text
+    x="600" y="450"
+    font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+    font-size="26"
+    font-weight="400"
+    fill="#64748b"
+    text-anchor="middle"
+    letter-spacing="0.5"
+  >A Secular Framework for the Well-Lived Life</text>
+
+  <!-- Divider -->
+  <line x1="480" y1="508" x2="720" y2="508" stroke="#c9a84c" stroke-width="1" stroke-opacity="0.25"/>
+
+  <!-- Domain -->
+  <text
+    x="600" y="546"
+    font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+    font-size="20"
+    font-weight="400"
+    fill="#334155"
+    text-anchor="middle"
+    letter-spacing="1"
+  >ethosian.info</text>
+</svg>

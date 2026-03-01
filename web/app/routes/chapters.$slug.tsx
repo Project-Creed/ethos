@@ -22,23 +22,65 @@ export async function loader({ params }: LoaderFunctionArgs) {
   return { chapter, prev, next, related };
 }
 
+const SITE = "https://ethosian.info";
+const OG_IMAGE = `${SITE}/og-image.svg`;
+
 export function meta({ data }: { data: Awaited<ReturnType<typeof loader>> | undefined }) {
   if (!data) return [{ title: "Chapter Not Found — Ethos" }];
   const { chapter } = data;
+  const url = `${SITE}/chapters/${chapter.slug}`;
+  const title = `${chapter.title} — Ethos`;
+
   return [
-    { title: `${chapter.title} — Ethos` },
+    { title },
     { name: "description", content: chapter.description },
     { name: "robots", content: "index, follow" },
+    // Canonical
+    { tagName: "link", rel: "canonical", href: url },
+    // Open Graph
+    { property: "og:type", content: "article" },
+    { property: "og:url", content: url },
+    { property: "og:title", content: title },
+    { property: "og:description", content: chapter.description },
+    { property: "og:image", content: OG_IMAGE },
+    { property: "og:image:width", content: "1200" },
+    { property: "og:image:height", content: "630" },
+    { property: "og:image:alt", content: "Ethos — A Secular Framework for the Well-Lived Life" },
+    // Twitter
+    { name: "twitter:card", content: "summary_large_image" },
+    { name: "twitter:title", content: title },
+    { name: "twitter:description", content: chapter.description },
+    { name: "twitter:image", content: OG_IMAGE },
+    // JSON-LD — Article
     {
       "script:ld+json": {
         "@context": "https://schema.org",
         "@type": "Article",
         headline: chapter.title,
         description: chapter.description,
+        url,
         isPartOf: {
           "@type": "Book",
           name: "Ethos",
+          url: SITE,
         },
+        publisher: {
+          "@type": "Organization",
+          name: "Ethos",
+          url: SITE,
+        },
+      },
+    },
+    // JSON-LD — BreadcrumbList
+    {
+      "script:ld+json": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE },
+          { "@type": "ListItem", position: 2, name: "Chapters", item: `${SITE}/chapters` },
+          { "@type": "ListItem", position: 3, name: chapter.title, item: url },
+        ],
       },
     },
   ];

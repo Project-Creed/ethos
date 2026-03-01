@@ -1,9 +1,17 @@
 import { Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router";
 import "./app.css";
 
+export function meta() {
+  return [
+    { property: "og:site_name", content: "Ethos" },
+    { name: "twitter:site", content: "@ethosian" },
+  ];
+}
+
 export function links() {
   return [
     { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
+    { rel: "apple-touch-icon", href: "/favicon.svg" },
   ];
 }
 
@@ -13,6 +21,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#f7f8fb" />
         <Meta />
         <Links />
       </head>

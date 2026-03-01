@@ -82,8 +82,13 @@ function TableOfContents({ toc }: { toc: TocEntry[] }) {
             <a
               key={id}
               href={`#${id}`}
+              onClick={(e) => {
+                e.preventDefault();
+                document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
+                setActiveId(id);
+              }}
               className={[
-                "block rounded py-1 text-xs leading-snug transition-colors",
+                "block cursor-pointer rounded py-1 text-xs leading-snug transition-colors",
                 level === 3 ? "pl-3" : "pl-0",
                 activeId === id
                   ? "font-semibold text-amber-700"

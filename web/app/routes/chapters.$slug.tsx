@@ -168,12 +168,27 @@ export default function ChapterPost() {
       <div className="flex gap-10">
         <article className="min-w-0 flex-1 rounded-2xl border border-[#e1e6f0] bg-white p-7 sm:p-10">
           <header className="mb-8 border-b border-[#e1e6f0] pb-8">
-            <p className="text-[11px] font-medium text-amber-700/70">
-              Chapter {String(chapter.order).padStart(2, "0")}
-            </p>
-            <h1 className="mt-3 text-3xl font-bold leading-tight text-slate-900 sm:text-4xl">
-              {chapter.title}
-            </h1>
+            <div className="flex items-start justify-between gap-4">
+              <div>
+                <p className="text-[11px] font-medium text-amber-700/70">
+                  Chapter {String(chapter.order).padStart(2, "0")}
+                </p>
+                <h1 className="mt-3 text-3xl font-bold leading-tight text-slate-900 sm:text-4xl">
+                  {chapter.title}
+                </h1>
+              </div>
+              <a
+                href={`https://github.com/project-creed/ethos/issues/new?title=${encodeURIComponent(`Suggestion: ${chapter.title}`)}&body=${encodeURIComponent(`**Chapter:** ${chapter.title}\n**URL:** https://ethosian.info/chapters/${chapter.slug}\n\n**Suggested change:**\n\n<!-- Describe what you'd like to see changed and why -->`)}&labels=suggestion`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-1 shrink-0 flex items-center gap-1.5 rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-xs font-medium text-slate-500 transition-colors hover:border-slate-300 hover:text-slate-700"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="size-3.5">
+                  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22" />
+                </svg>
+                Suggest a change
+              </a>
+            </div>
             <p className="mt-3 text-base leading-relaxed text-slate-600">{chapter.description}</p>
           </header>
 

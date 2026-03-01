@@ -118,7 +118,7 @@ export default function ChapterPost() {
       </nav>
 
       {/* Article + TOC sidebar */}
-      <div className="flex gap-10 items-start">
+      <div className="flex gap-10">
         <article className="min-w-0 flex-1 rounded-2xl border border-[#e1e6f0] bg-white p-7 sm:p-10">
           <header className="mb-8 border-b border-[#e1e6f0] pb-8">
             <p className="text-[11px] font-medium text-amber-700/70">

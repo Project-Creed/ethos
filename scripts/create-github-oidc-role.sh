@@ -10,7 +10,7 @@
 set -euo pipefail
 
 ROLE_NAME="GitHubActions-project-creed-ethos"
-GITHUB_ORG="project-creed"
+GITHUB_ORG="Project-Creed"
 GITHUB_REPO="ethos"
 OIDC_URL="token.actions.githubusercontent.com"
 

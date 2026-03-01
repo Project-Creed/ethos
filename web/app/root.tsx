@@ -98,12 +98,25 @@ export default function App() {
             &copy; {new Date().getFullYear()} Ethos. Licensed under{" "}
             <span className="text-slate-500">CC BY-NC-ND 4.0</span>.
           </p>
-          <a
-            href="/chapters"
-            className="text-xs text-slate-500 hover:text-amber-700 transition-colors"
-          >
-            Read all chapters →
-          </a>
+          <div className="flex items-center gap-4">
+            <a
+              href="https://x.com/ethos_docs"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-slate-400 hover:text-slate-600 transition-colors"
+              aria-label="X (Twitter)"
+            >
+              <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" aria-hidden="true">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.742l7.736-8.857L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+              </svg>
+            </a>
+            <a
+              href="/chapters"
+              className="text-xs text-slate-500 hover:text-amber-700 transition-colors"
+            >
+              Read all chapters →
+            </a>
+          </div>
         </div>
       </footer>
     </div>

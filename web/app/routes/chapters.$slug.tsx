@@ -1,6 +1,8 @@
 import { Link, useLoaderData } from "react-router";
+import { useState, useEffect } from "react";
 import type { LoaderFunctionArgs } from "react-router";
 import { getChapter, getAllChapters } from "@/lib/blog.server";
+import type { TocEntry } from "@/lib/blog.server";
 
 export async function loader({ params }: LoaderFunctionArgs) {
   const chapter = getChapter(params.slug!);
@@ -42,6 +44,61 @@ export function meta({ data }: { data: Awaited<ReturnType<typeof loader>> | unde
   ];
 }
 
+function TableOfContents({ toc }: { toc: TocEntry[] }) {
+  const [activeId, setActiveId] = useState<string>("");
+
+  useEffect(() => {
+    if (toc.length === 0) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        // Find the topmost visible heading
+        const visible = entries
+          .filter((e) => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (visible.length > 0) setActiveId(visible[0].target.id);
+      },
+      { rootMargin: "0px 0px -70% 0px" }
+    );
+
+    toc.forEach(({ id }) => {
+      const el = document.getElementById(id);
+      if (el) observer.observe(el);
+    });
+
+    return () => observer.disconnect();
+  }, [toc]);
+
+  if (toc.length === 0) return null;
+
+  return (
+    <aside className="hidden xl:block w-56 shrink-0">
+      <div className="sticky top-8">
+        <p className="mb-3 text-[10px] font-bold uppercase tracking-[0.22em] text-slate-400">
+          On this page
+        </p>
+        <nav className="flex flex-col gap-0.5">
+          {toc.map(({ id, text, level }) => (
+            <a
+              key={id}
+              href={`#${id}`}
+              className={[
+                "block rounded py-1 text-xs leading-snug transition-colors",
+                level === 3 ? "pl-3" : "pl-0",
+                activeId === id
+                  ? "font-semibold text-amber-700"
+                  : "text-slate-500 hover:text-slate-800",
+              ].join(" ")}
+            >
+              {text}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </aside>
+  );
+}
+
 export default function ChapterPost() {
   const { chapter, prev, next, related } = useLoaderData<typeof loader>();
 
@@ -60,23 +117,27 @@ export default function ChapterPost() {
         <span className="text-slate-600 truncate">{chapter.title}</span>
       </nav>
 
-      {/* Article */}
-      <article className="rounded-2xl border border-[#e1e6f0] bg-white p-7 sm:p-10">
-        <header className="mb-8 border-b border-[#e1e6f0] pb-8">
-          <p className="text-[11px] font-medium text-amber-700/70">
-            Chapter {String(chapter.order).padStart(2, "0")}
-          </p>
-          <h1 className="mt-3 text-3xl font-bold leading-tight text-slate-900 sm:text-4xl">
-            {chapter.title}
-          </h1>
-          <p className="mt-3 text-base leading-relaxed text-slate-600">{chapter.description}</p>
-        </header>
+      {/* Article + TOC sidebar */}
+      <div className="flex gap-10 items-start">
+        <article className="min-w-0 flex-1 rounded-2xl border border-[#e1e6f0] bg-white p-7 sm:p-10">
+          <header className="mb-8 border-b border-[#e1e6f0] pb-8">
+            <p className="text-[11px] font-medium text-amber-700/70">
+              Chapter {String(chapter.order).padStart(2, "0")}
+            </p>
+            <h1 className="mt-3 text-3xl font-bold leading-tight text-slate-900 sm:text-4xl">
+              {chapter.title}
+            </h1>
+            <p className="mt-3 text-base leading-relaxed text-slate-600">{chapter.description}</p>
+          </header>
 
-        <div
-          className="prose"
-          dangerouslySetInnerHTML={{ __html: chapter.html }}
-        />
-      </article>
+          <div
+            className="prose"
+            dangerouslySetInnerHTML={{ __html: chapter.html }}
+          />
+        </article>
+
+        <TableOfContents toc={chapter.toc} />
+      </div>
 
       {/* Prev / Next navigation */}
       <nav className="grid gap-3 sm:grid-cols-2">

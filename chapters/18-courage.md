@@ -2,19 +2,28 @@
 
 Fear does not disqualify you from acting. It is the precondition for courage. Without it, what you have is not courage but indifference.
 
+## Fear Is a Signal, Not a Veto
+
 This distinction matters because people regularly use the presence of fear as a reason not to act — as though the fear itself is evidence that the action is wrong, too dangerous, not theirs to take. It isn't. Fear is a signal from your nervous system that stakes are real. That is useful information. It tells you to pay attention. It does not tell you to stop.
 
 Physical courage gets the most cultural attention — the soldier, the first responder, the person who runs toward danger while others run away. These are real and important forms of courage. But most people will face physical danger rarely and moral danger often. Moral courage is the courage to tell the truth when lying would be easier. To disagree publicly when agreement would be socially cheaper. To name what is actually happening in a room where everyone has silently agreed to pretend otherwise. To hold a position under pressure when reversing it would bring relief. Moral courage is less dramatic than physical courage and more frequently required. It is also more frequently avoided, because the costs are social and the cowardice is invisible.
+
+## How Cowardice Compounds
 
 Cowardice compounds. This is the part people underestimate. Each time you don't say what you think, each time you go along with something you know is wrong, each time you avoid the necessary conversation because it might be uncomfortable — the habit deepens. You become better at finding reasons not to act, more practiced at the internal negotiation that produces inaction. Eventually you don't think of it as cowardice anymore. You think of it as prudence, or timing, or pragmatism. But the outcome is the same: you said nothing, did nothing, changed nothing.
 
 Courage, like cowardice, is trained through repetition. The small acts of courage matter not only for their immediate effects but for what they do to the person taking them. Speaking up in a meeting when you think something is wrong. Giving honest feedback when someone asks for your opinion and you know the honest answer will not be welcome. Admitting a mistake publicly rather than quietly hoping it won't be noticed. Choosing the honest path in small, low-stakes situations builds something. It builds the habit of acting on your actual assessment rather than on what will produce the least friction. When the stakes are genuinely high, you draw on that habit.
 
+## The Cost of Chronic Avoidance
+
 The cost of consistent cowardice is not just the direct harm of the actions not taken and the truths not told. It is what it does to your sense of yourself. People who habitually avoid difficult action know, on some level, that they are doing it. The knowledge accumulates. It produces a kind of low-grade self-contempt that is hard to name but easy to feel — the sense that you cannot quite trust yourself, that you do not fully respect your own behavior, that there is a version of you that you're not quite being. This is not a small cost. It is corrosive to the kind of integrity that makes a serious life possible.
 
+## Courage Is Not Recklessness
+
 Being courageous does not mean being reckless, being aggressive, or saying everything you think at full volume in every context. The courage to act is not the absence of judgment about when and how to act. Some truths need to be delivered carefully. Some battles need to be chosen rather than joined reflexively. Courage paired with poor judgment produces a lot of wreckage. The goal is not fearlessness in the sense of blundering forward — it is the capacity to act, clearly and deliberately, when acting is required despite the fear that makes inaction feel safer.
+
+## Making Fear Specific
 
 One practical test: when you feel the pull toward silence or inaction in a situation where you know what should be said or done, stop and identify what you are actually afraid of. Not the abstract "this might be difficult" but the specific thing. The particular person's disapproval. The possibility of being wrong publicly. The risk of a relationship becoming strained. Making the fear specific and explicit removes some of its power. An unnamed fear fills the space it's given. A named, specific fear can be evaluated: Is this risk real? Is it as large as it feels? And even if it is — does it outweigh what it would cost to stay silent?
 
 Usually it doesn't. That is the thing you know, and keep discovering, every time you choose to act anyway.
-

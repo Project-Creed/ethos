@@ -1,20 +1,31 @@
+# Forgiveness
+
 Forgiveness is not something you do for the person who wronged you. It is something you do for yourself, in order to get your attention back.
+
+## What Forgiveness Actually Does
 
 This reframe is not therapeutic softening. It is a precise description of what forgiveness actually accomplishes and what it does not. When someone wrongs you — genuinely, significantly, in a way that causes real damage — you have legitimate grievance. That grievance is accurate. It correctly tracks an injury and correctly identifies the person responsible. Nothing in the act of forgiving changes that accuracy. What forgiveness changes is the relationship between the grievance and your ongoing attention — whether you are still, months or years later, dedicating significant cognitive and emotional resources to an injury that is no longer occurring.
 
 Held grievance is expensive. It requires maintenance. The wrong you have not forgiven occupies space in your thinking, surfaces in unrelated situations, produces responses in your present life that belong to a past one. This is a cost you are paying, not the person who wronged you. They may be entirely unaware of it. Your resentment is not their problem unless you make it so, and even when you make it so, the act of weaponizing it costs you more than it costs them in most cases. The bitterness of long-held grievance is borne almost entirely by the person who holds it.
 
+## Anger Is Functional — Until It Isn't
+
 This is not a reason to suppress the initial response. Anger at genuine wrong is appropriate and functional. It signals that something important was violated and that it should not be repeated. It may motivate necessary action. The problem is not the anger. The problem is what happens when anger is not resolved — when it converts from a signal into a residence, when the wronged person builds their relationship to the event into something they return to regularly, a story that becomes a fundamental part of how they understand themselves and others.
 
+## What Forgiveness Is Not
+
 Forgiveness needs to be distinguished clearly from three things it is often confused with. It is not the same as excusing — saying that what happened was acceptable, that the wrong wasn't really a wrong, that no accountability is required. Forgiving someone is compatible with maintaining a clear account of what they did and holding them to genuine consequences. It is not the same as reconciliation — resuming a relationship, restoring trust, re-entering proximity. You can forgive someone and decide, correctly, that you should never speak to them again. These are separate decisions. And it is not the same as forgetting — pretending the injury didn't happen or that it has no relevance to future decisions about this person. The memory of what happened is useful information. Organizing your present emotional life around it is not.
+
+## The Practical Test
 
 The practical test for whether you have actually forgiven something is whether you can think about the event without being recruited into the emotion of it. Not whether the memory is absent — it won't be — but whether the memory has the quality of a fact rather than a wound. You know what happened. You are not currently being undone by it. The event is part of your history but not the organizing principle of your present.
 
 Getting to that state often requires an intermediate step that is underemphasized: actually processing what happened at the full depth of its impact, rather than rushing to forgiveness as a way to avoid the discomfort of fully feeling the injury. Many attempts at forgiveness fail not because forgiveness is too hard but because they skip the step in which you acknowledge, honestly, how much damage was done and how much it mattered. Premature forgiveness is often suppression with better branding. The real thing tends to come after the full weight of the wrong has been looked at directly.
+
+## The Release Is Yours to Take
 
 The person who wronged you may never apologize, may never acknowledge what they did, may continue through their life entirely unaffected by the harm they caused. Waiting for them to provide the conditions under which you can release the grievance is ceding control of your own interior life to someone who has already demonstrated poor stewardship of it. The release is yours to take.
 
 You are not obligated to forgive quickly. You are not obligated to forgive completely before the process is real. But you are obligated, eventually, to stop paying the cost of a resentment that is not producing anything worth the price. What you want your attention for — what you could be building in the time currently spent on this — is the other side of the calculation.
 
 The grievance ends when you decide it ends. That decision is the whole of forgiveness.
-

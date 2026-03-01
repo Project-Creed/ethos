@@ -4,19 +4,26 @@ Parenting is the most consequential thing most people will do, and the thing the
 
 This is not accusation. It is the nature of the thing. Children arrive on a timeline that frequently precedes full readiness. The requirements of the first years are immediate and physical — feeding, sleeping, managing the relentless logistics of keeping a small human alive — and the larger questions of formation, values, and long-term impact get deferred until the clay is already set. By the time most parents are asking serious questions about how to raise children, the deepest impressions have already been made.
 
+## You Are The Curriculum
+
 The deepest impressions are made by what you do, not by what you say. This is not a rhetorical point. Children are extraordinarily sensitive observers of the gap between stated values and actual behavior. You can tell them that honesty matters while they watch you lie on the phone. You can tell them that people deserve respect while they hear how you speak about your neighbors. You can tell them to manage their emotions while they watch you lose yours. What you model is the curriculum. The instructions are supplementary material that only registers if it is consistent with what they observe. When your behavior and your instructions conflict, they trust the behavior.
 
 This puts the project of parenting squarely on the terrain of personal development, which is uncomfortable for people who would prefer to think of it as outward-facing. The question "what do I need to be for this child?" is demanding in a way that "what should I do with this child?" is not. The former requires looking at your own patterns, your own unresolved things, your own defaults under stress. It requires acknowledging that what you carry will be transmitted — not if you are unlucky, but as a matter of developmental mechanics.
+
+## What Children Actually Need
 
 What children actually need from their parents is not complicated to list, though it is hard to deliver consistently. They need to feel securely attached — to know that the relationship is unconditional in a way that does not depend on their performance or compliance. They need you to be genuinely interested in them, not in the idealized version of them you had prior to their arrival. They need limits that are real and enforced, because the absence of genuine limits is experienced not as freedom but as abandonment — no one cared enough to show up. And they need to watch you navigate real life with some degree of integrity, because that is where they learn what is actually possible.
 
 The attachment piece is foundational in a way the other elements are not. Children who are securely attached are more resilient, more socially competent, more willing to explore and take risks, and more capable of managing difficulty. The securing of that attachment is not primarily about what you provide — it is about the quality of presence you offer. A parent who is physically present but emotionally unavailable is not providing secure attachment. A parent who is frequently gone but fully present when there is one of the most connected things a parent can do. The quantity is less important than the quality of actual contact.
 
+## Do Not Remove All Difficulty
+
 On the question of what children do not need: they do not need protection from all difficulty. The instinct to shield children from failure, from disappointment, from social friction is understandable and harmful. The capacity to tolerate frustration, to recover from setbacks, to navigate conflict with peers — these are skills, and skills require practice. A childhood from which all friction has been removed produces an adult who has never been tested, and the first serious test often breaks them. The relevant parenting task is not removal of difficulty but presence during it — being the person who helps them process what happened, not the person who ensures nothing happens.
+
+## The Long Arc of Character
 
 The long arc of character formation means that many of the most important effects of parenting are not visible for years or decades. How a child learns to handle failure, to repair relationships, to tolerate uncertainty, to act on principle when it costs something — these capacities form slowly, in the accumulation of ordinary interactions, in how you handled it when they were seven and broke something, and what they heard in your voice when they told you about a hard day at twelve.
 
 You will not get all of it right. The goal is not perfection. The goal is to be paying enough attention that you can see what is needed and honest enough with yourself to provide it even when it is inconvenient.
 
 That much, consistently, across years — is enough to produce something real.
-

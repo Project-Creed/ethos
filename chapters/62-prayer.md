@@ -4,11 +4,19 @@ There is something that happens when you stop addressing only yourself.
 
 This is true regardless of what you believe about whether anyone is listening. The act of turning attention outward and upward — of articulating what you are grateful for, what you are afraid of, what you need, what you want to become — does something to cognition and to the internal weather that silent rumination does not. Call it prayer if the word is available to you. Call it something else if it is not. The function is what matters, and the function is distinct from its metaphysical container.
 
+## Why A Secular Framework Takes This Seriously
+
 A secular framework does not require the dismissal of practices that carry meaning simply because the traditional metaphysical explanations for them cannot be verified. Prayer is one of these. It has existed in virtually every human culture across recorded history, which is evidence that something about it works, even in the absence of agreement about what it works through. The question worth asking is not "is there a God to pray to" but "what does the practice of prayer actually do, and is that worth having?"
+
+## What Gratitude Does To The Mind
 
 What it does, functionally, is several things at once. Gratitude, when practiced deliberately and specifically — not as a vague general feeling but as a named accounting of what is actually good in your life — reliably shifts perspective. It is nearly impossible to simultaneously enumerate what you are grateful for and remain fully consumed by grievance. This is not a trick and it is not denial. It is a redirection of attention that produces a more accurate picture of your situation than the one anxiety or resentment typically generates. The human mind in its default mode is a problem-finding instrument. Gratitude practice is the conscious correction of that asymmetry.
 
+## Petition As Clarifying Exercise
+
 Petition — the practice of articulating what you want or need — is underrated as a clarifying exercise even when directed at nothing outside yourself. Most people move through their days with needs and wants at the level of vague dissatisfaction, never fully surfaced or examined. The discipline of putting them into words — of saying, specifically, what you are hoping for, what you are worried about, what you are asking for help with — forces a precision that clarifies. You often discover, in the articulation, that what you thought you wanted is not exactly what you want. You discover the shape of your fears more accurately than you knew them when they were unspoken. The act of expression is not just communication. It is comprehension.
+
+## Intentional Attention Is Rare
 
 The attention that prayer structures — the deliberate turning toward rather than continuous forward rushing — is itself rare and valuable. Most people's inner life is reactive: they attend to what arrives rather than directing attention on purpose. Prayer, whatever else it is, is a practice of intentional attention. It says: I am going to stop and attend, now, to what matters. I am going to be present to my actual situation rather than the surface of my ongoing activity. This is not a small thing. It is, in fact, quite difficult to do consistently, and the cultures and traditions that developed prayer as a practice understood this and built structures — times, words, postures, rhythms — to support it.
 
@@ -17,4 +25,3 @@ Stillness is its own form of clarity. This does not require belief in anything. 
 If the word prayer is inaccessible to you, find the practice some other name and do it anyway. A few minutes of deliberate gratitude. The articulation of what you are asking for or afraid of. The practice of attention to what is actually present. These are not soft alternatives to serious engagement with life. They are part of what serious engagement requires.
 
 Sit down. Attend. Say what is true.
-

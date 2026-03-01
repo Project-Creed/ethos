@@ -4,11 +4,17 @@ Difficulty is not a departure from normal life. It is a feature of it, and a per
 
 Resilience is the capacity to face difficulty without surrendering the standards you hold when things are easy. This is the definition that matters, and it is more demanding than the popular one. The word is used loosely to mean "bouncing back" or "getting through hard times," which frames resilience as a kind of toughness — a refusal to stay down. That capacity matters, but it misses the harder part. The question is not just whether you recover, but whether you maintain your commitments through the process of recovering. Whether you remain honest when stress makes dishonesty tempting. Whether you treat people well when your own tank is empty. Whether you keep working toward what matters when it would be easier to justify stopping.
 
+## Resilience Versus Stubbornness
+
 The failure mode that looks like resilience but isn't is stubbornness. The stubborn person persists through difficulty, but they persist in a fixed direction regardless of what the difficulty is telling them. They conflate consistency with rigidity, and they call the refusal to adapt a form of strength. Real resilience includes the judgment to distinguish between difficulty worth pushing through and difficulty that is telling you something needs to change. Effort in the wrong direction, maintained stubbornly through adversity, is not resilience — it is the most expensive possible way to get to the wrong destination.
 
 The gap between resilience and stubbornness is whether you are listening. Adversity carries information. A relationship that keeps producing conflict, a project that keeps hitting the same obstacle, a behavior pattern that keeps generating the same consequence — these are not just problems to overcome. They are data about what is true. The resilient person can absorb that data while continuing to function. The stubborn person filters it out in service of a story they've already decided on.
 
+## The Discipline Of Returning
+
 There is a discipline to returning quickly. Not to pretending nothing happened, not to rushing past grief or genuine difficulty, but to returning to contribution — to the work, to the people, to the commitments — as the primary mode rather than remaining in absorption of the setback. The longer a setback becomes the main event in your own story, the harder it is to function, and the more the people around you absorb the cost of your extended processing. This is not a case for suppression. It is a case for proportion: the response to difficulty should be scaled to the difficulty, not inflated by narrative.
+
+## Building It Before You Need It
 
 Resilience is built before you need it. The practices that strengthen it are mundane: doing hard things voluntarily, tolerating discomfort without immediately eliminating it, maintaining structure during periods when structure is difficult to maintain. The person who has never demanded anything of themselves will not suddenly produce exceptional resilience when life demands it. The capacity is built by repeated exposure to manageable difficulty — work that is genuinely hard, commitments that require something, situations where you have to function without all your preferred conditions in place. Every time you do the hard thing anyway, you are not just accomplishing the task. You are calibrating your own threshold.
 

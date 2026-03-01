@@ -4,15 +4,23 @@ Every generation inherits a world it did not make and passes on a world it will 
 
 Generational thinking is the discipline of holding both ends of that chain at once — acknowledging what you received and taking seriously what you will leave. It is not nostalgia for the past or sentimentality about the future. It is a structural expansion of the time horizon within which you make decisions. Most human reasoning operates at the scale of weeks, months, a few years at most. Generational thinking operates at the scale of decades and centuries. The shift does not require you to abandon short-term concerns. It requires you to situate them.
 
+## Recognizing the Inheritance
+
 Begin with what you received. The circumstances that make your life possible — the political institutions, the infrastructure, the accumulated scientific knowledge, the legal frameworks that protect you, the environmental conditions that sustain you — none of these were created by you or for you specifically. They were built and maintained across generations by people who, in most cases, did not know you would exist. This inheritance is so total, so woven into the fabric of ordinary life, that it is almost invisible. The person who believes they are self-made has simply failed to account for what they were given.
 
 Recognizing the inheritance is not primarily about gratitude, though gratitude is appropriate. It is about obligation. If you received something valuable that you did not build, you are a custodian of it — not an owner free to consume it without replacement, but a trustee with responsibilities to those who come after. This framing changes how you think about a remarkable range of decisions.
+
+## What Future Generations Are Owed
 
 Environmental responsibility becomes clearest in this frame. The debate about climate change and ecological degradation is often conducted as a present-interest argument — about economic costs and current quality of life. But strip away the present-interest framing and what you find is a moral question that generational thinking makes visible: What do we owe to people who do not yet exist and therefore cannot advocate for themselves? The answer that "future generations don't exist yet and therefore have no standing" is a philosophical position, but it is not a coherent one for anyone who claims to care about justice. The people who will live in the world fifty years from now are not morally less significant because they have not yet been born. Their inability to sit at the current table does not eliminate their claim on the decisions made at it.
 
 Financial thinking changes in a similar way. Debt has a generational dimension that is rarely acknowledged honestly in policy conversations: spending borrowed money that will be repaid by people who had no say in the decision is a form of extraction from the future. This does not mean all debt is wrong — investment in things that will compound in value can be justified intergenerationally. But consuming in the present while passing costs to the future, whether through environmental degradation or financial obligation or neglected infrastructure, is a pattern that requires moral scrutiny.
 
+## Transmitting Culture Across Time
+
 Cultural transmission is the dimension least discussed in generational thinking, but it is not less important. What you pass on in terms of values, habits, ways of seeing the world — these propagate through people, not policy. The parent who models integrity passes something to their children that cannot be mandated or taxed. The community that maintains standards of honest discourse, that takes the education of its young seriously, that preserves the practices and stories and knowledge that constitute a functioning culture — these are generational acts. Their absence is also a generational act.
+
+## The Discipline It Requires
 
 The practical challenge of generational thinking is that long-term consequences are harder to trace than immediate ones, and incentive structures almost never reward patience at the scale of decades. The politician who plants trees whose shade others will sit in is operating against the grain of electoral cycles. The executive who accepts lower short-term returns for long-term stability is vulnerable to the short-term judgment of markets. The individual who sacrifices present convenience for future consequence is often invisible in ways that the person who prioritizes today is not.
 
@@ -21,4 +29,3 @@ None of this means generational thinking is merely idealistic. It means it requi
 The civilization you inhabit is a loan from people who are not yet alive.
 
 The question is what condition you intend to return it in.
-

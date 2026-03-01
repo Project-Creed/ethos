@@ -2,19 +2,28 @@
 
 The question that reveals the most about a professional's actual ethics is not how they behave when someone is watching. It is what standard they hold their work to when no one would know the difference.
 
+## How Drift Happens
+
 Most professional misconduct does not happen in dramatic moments of conscious corruption. It happens incrementally, in small accommodations that each seem individually defensible: the corner cut because the deadline was real, the disclosure omitted because it would have been awkward, the recommendation shaped by what the client wanted to hear rather than what they needed to know, the detail softened because the full version would have created friction. Each step is small enough to rationalize. The cumulative effect is a professional who has, over time, drifted far from any serious standard — and who has constructed a sophisticated internal narrative about why each step was reasonable.
 
+## Legal Compliance Is Not Enough
+
 The distinction between legal and ethical in professional life is not academic. What is legal is the minimum the external environment will permit. What is ethical is what your role, your competence, and your obligations to the people you serve actually require. These are not the same thing, and conflating them — treating legal compliance as the equivalent of professional integrity — is a downgrade in standards that is both common and consequential. You can act within the law and still mislead a client. You can follow the rules and still deliver substandard work. You can avoid liability and still violate the trust that your professional role is built on.
+
+## The Asymmetry At The Core
 
 Every profession that functions as a profession rather than just a market transaction is built on an implicit contract: the person you serve does not have the expertise to fully evaluate what you are doing, so they must trust you. The doctor, the lawyer, the financial advisor, the engineer, the teacher — each operates in a context where the client or patient or student has handed over a significant degree of judgment because they cannot exercise that judgment themselves. This asymmetry is the ethical core of professional work. It is the reason that "I gave them what they asked for" is not always a sufficient defense, and that "it was technically within standards" is not always a sufficient answer.
 
 What your profession actually requires of you, at the level of character, is this: that you serve the interest of the person you are working for rather than the interest of the outcome that would be most convenient for you. That when you do not know something, you say so. That when the answer is one the client will not like, you give it anyway. That you hold your work to the standard of what is actually good rather than what is minimally acceptable. These requirements are not unusual or heroic. They are the baseline definition of what it means to practice professionally rather than just commercially.
 
+## The Internal Cost Of Cutting Corners
+
 The long-term cost of cutting corners professionally is a specific kind of degradation. It is not always external — careers are sometimes built on work that did not deserve them. It is internal. The professional who has consistently prioritized convenience over quality, who has shaped advice to please rather than to serve, who has allowed the gap between their public professional identity and their actual standards to widen — they know. The knowledge does not usually produce dramatic crisis. It produces a quiet erosion of the confidence and seriousness that make work meaningful. There is a specific emptiness available to the person who has been professionally successful on terms they cannot quite respect.
+
+## Deciding On Your Standard
 
 The repair for this is not complicated but it does require decision. You decide, as specifically as you can, what your professional standard actually is — not the minimum acceptable, but what genuinely good work looks like in your field and your context. And then you hold to it, particularly in the moments when the gap between good work and acceptable work would not be visible to anyone else. Those are the moments that define the standard, not the moments when you are being observed.
 
 Professional ethics is not a separate domain from personal ethics. The person you are at work, when work is inconvenient or uncomfortable or when doing the right thing costs you something — that person is not a professional version of yourself. It is you.
 
 Do work you could explain fully to the people it affects. That is the test.
-

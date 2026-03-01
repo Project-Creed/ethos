@@ -1,20 +1,31 @@
+# Age to Marry By
+
 There is no correct age to marry, but there are correct and incorrect ways to reason about it.
+
+## Why the Question Is Genuinely Hard
 
 The question of when to marry is genuinely difficult because it involves variables that cannot be precisely measured — your own maturity, your knowledge of another person, your readiness to take on an obligation of this weight — and because the costs of error run in both directions simultaneously. Commit too early and you may find, years later, that neither person had become who they were going to become, and the fit has degraded. Wait too long and you may find that you have optimized yourself out of the possibility, that the habits of solitude have hardened into preferences that a shared life cannot accommodate.
 
 The cultural messaging on this has been schizophrenic. An older generation pressed early marriage as a social expectation, independent of readiness. A younger generation, reacting against that, has generated a counter-narrative that treats marriage as something to be postponed until conditions are optimal, until careers are established, until selves are fully formed. Both of these are wrong, and in usefully complementary ways.
 
+## What Early Marriage Gets Wrong
+
 The early-marriage pressure failed because it mistook the institution for the substance. Getting married young does not produce maturity. What it can do — under the right conditions, with two people who are genuinely trying — is create a context in which maturity develops faster, because the stakes are real and the obligations are not optional. But this only works if the people involved are capable of growth and willing to do the work. Youth alone does not disqualify you. Rigidity does.
 
+## What Indefinite Postponement Gets Wrong
+
 The indefinite-postponement model fails for a different reason. It operates on the assumption that you will eventually reach a state of self-knowledge sufficient to make a confident choice, and that this state is best approached through continued singleness and accumulation of experience. What it underestimates is that some knowledge is only available inside the commitment. You do not fully know how you handle sustained obligation, genuine compromise, or the particular ways that closeness generates friction, until you are in circumstances that require those capacities. Waiting to be completely ready is, in part, waiting for information that only becomes available after you decide.
+
+## What Maturity Actually Means Here
 
 What maturity actually means in the context of choosing a partner is not about age. It is about a specific cluster of capacities: the ability to see another person clearly rather than projecting what you want onto them; the willingness to be seen clearly yourself; a working relationship with your own patterns — your defenses, your defaults under stress, your tendencies in conflict; and the genuine ability to subordinate your preferences to something larger than yourself on a regular basis. Some twenty-five-year-olds have these capacities. Some forty-year-olds do not.
 
 The question to ask is not "am I ready" in some absolute sense, because absolute readiness is not a real state. The question is whether you have sufficient self-knowledge to choose from clarity rather than from fear or social pressure. Fear of being alone is not a reason to marry. Social expectation is not a reason to marry. Genuine partnership with a specific person, chosen from a reasonably accurate understanding of who you both are and what the commitment will require, is a reason to marry.
+
+## The Real Costs of Waiting
 
 The costs of waiting deserve honest accounting. There are genuine goods that become harder to access with time — not because it is impossible to find a partner at forty, but because the social infrastructure that facilitates meeting people contracts as you age, the overlap of life circumstances that makes partnership natural narrows, and the internal work of integrating another person into a fully established life gets harder. These are real costs, not cultural anxieties, and pretending they aren't there is not sophistication. It is avoidance dressed as patience.
 
 The decision should be made from the most honest accounting you can produce of who you are, who the other person is, and whether the combination — with sustained effort on both sides — has the properties of something that can last. Not certainty. Reasonable confidence, based on real evidence, is the most that is available, and it is enough.
 
 Whatever age that happens to be when you arrive at that clarity, that is the right time.
-

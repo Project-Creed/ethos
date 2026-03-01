@@ -4,13 +4,21 @@ You become what you repeatedly attend to. This is not metaphor — it is the des
 
 What you allow your gaze to rest on is therefore not trivial. The environment of your attention is something you can and should govern, and the failure to govern it is not a minor omission. It is the slow surrender of the authorship of your own mind to whatever is loudest, most stimulating, and most designed to capture and hold you. This is worth taking seriously, particularly now, when the systems designed to capture attention are more sophisticated than they have ever been and are operating at a scale that is genuinely unprecedented.
 
+## An Ancient Insight, A Modern Problem
+
 The concept of guarding the eyes is ancient — it appears across religious and philosophical traditions as the recognition that the soul is shaped by what the person habitually contemplates. The secular version of the insight is not different in substance: consistent exposure to certain content produces certain patterns of desire, thought, and behavior, and the shaping happens largely below the level of conscious decision. You do not decide to want something because you saw it once. You decide to want it after it has been present long enough, consistently enough, that your appetite has reconfigured itself around it.
 
+## The Most Obvious Application
+
 The most obvious contemporary application is pornography, and it is worth being direct. Consistent consumption of pornographic content alters the appetite it feeds, recalibrates what produces arousal toward the artificial, the extreme, and the increasingly novel. This is not moral panic — it is the report of a great deal of research and a great many people's first-person experience of the trajectory. What begins as minor use develops into a stronger pull not because the person has poor character but because the mechanism of appetitive shaping is operating exactly as it is designed to. The consumer is consuming content engineered for maximum compulsive engagement, and the result is predictable. The harm lands in how real intimacy is experienced — as less stimulating, less sufficient, less capable of holding attention than the engineered version. This is a real loss.
+
+## Beyond Pornography
 
 But the guarding of eyes is not only about pornography. It includes the general environment of visual and attentional consumption that most people now inhabit without having chosen it. The social media feed is an environment of comparison, grievance, outrage, and performance. Consistent immersion in it shapes what you notice, what you feel implicitly entitled to, what seems normal, what produces anxiety. The person who spends significant portions of each day scrolling a feed designed by engineers to maximize engagement is submitting their attention to an algorithm whose goals have nothing to do with their flourishing. This is not a minor concession. It is the outsourcing of a significant portion of your mental life to a system that does not care about you.
 
 There is also the question of violence, degradation, and cruelty in entertainment. The argument that exposure to this material is harmless because the viewer knows it is fictional misunderstands what exposure does. It is not about confusion of fiction and reality. It is about normalization — the gradual raising of the threshold for what registers as shocking, what produces an emotional response, what feels like it warrants attention. A person who has watched thousands of hours of depicted violence does not think violence is acceptable. They have simply become familiar with it in a way that reduces its weight.
+
+## Governing Attention Is Authorship
 
 Governing your attention means making deliberate decisions about the environments you inhabit, visual and otherwise. This is not withdrawal from the world or the cultivation of a fragile sensitivity that requires protection from difficulty. It is the adult recognition that attention is the substrate of consciousness — that what you attend to regularly is what you become fluent in, what you care about, what you desire, and ultimately who you are. Governing it is not restriction. It is authorship.
 

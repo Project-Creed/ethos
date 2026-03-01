@@ -1,18 +1,27 @@
+# Hospitality
+
 To welcome someone into your home is to make a claim about their worth.
+
+## Entertainment Versus Genuine Welcome
 
 This is what separates hospitality from mere entertainment. Entertainment is about production — the quality of the food, the aesthetics of the space, the management of a successful social event. Hospitality is about attention — the genuine orientation of your care toward the person in front of you, the making of space for them not just physically but in the quality of your presence. You can throw an excellent dinner party with very little hospitality in it. The guests are well-fed and the conversation is well-managed, but they leave having been performed at rather than received.
 
 The difference is felt, even when people cannot name it. There is a quality of ease in genuine hospitality — not because the host has made everything frictionless, but because the guest senses that their presence is actually wanted, that the welcome is real. This ease is not produced by effort in the usual sense. It is produced by attention. The host who is tracking whether guests have drinks, whether the person in the corner is excluded, whether the conversation has gone somewhere uncomfortable for someone, is doing a fundamentally different thing than the host who is managing the optics of the evening.
 
+## The Failure Modes
+
 Hospitality is a form of moral attention because it requires the same basic orientation that ethics requires: genuine regard for the experience of the other person, as distinct from your own. The failure modes are instructive. There is the hospitality that is really social performance — the host is technically generous but what is being served, primarily, is their own reputation. There is hospitality that is conditional — you are welcoming, but in ways that require the guest to adapt to your preferences, to appreciate what you have prepared, to not be inconvenient. And there is hospitality that is absent-minded — technically present, offering food and space, but without the quality of attention that makes the guest feel genuinely received.
+
+## The Obligation Once You Open the Door
 
 Genuine hospitality requires that you make the guest's comfort primary for the duration of their visit. This is not servility. It is a temporary but real subordination of your own preferences to the needs of someone you have chosen to receive. That choice — to receive someone — is where the ethical weight lies. Once you have opened your door, you have taken on an obligation. The person who enters your home is, in a meaningful sense, in your care.
 
 This obligation extends beyond the people you like. Hospitality for friends is easy. The harder version — the one that actually tests and develops the capacity — is hospitality for people who are inconvenient, unfamiliar, or difficult. The neighbor you don't know well. The relative who is exhausting. The person whose circumstances require more of you than you anticipated. These are the encounters where hospitality becomes something more than taste and generosity, where it becomes a genuine ethical practice.
+
+## Hospitality as Social Infrastructure
 
 The communal dimension of hospitality is underemphasized in a culture that treats it primarily as personal style. Historically, hospitality was understood as a social infrastructure — the network of obligations and practices by which communities maintained trust, cared for travelers and strangers, and signaled that the world beyond your own household was navigable. This understanding is not merely historical. The same structure is operating, at smaller scale, in the contemporary forms of the practice. When you are known as someone who genuinely receives people, you are contributing something to the social fabric of your community. You are demonstrating, through repeated practice, that welcome is possible, that strangers can become less strange, that the space between people can be crossed.
 
 The practical side of hospitality is real and should not be idealized away. Good hospitality requires preparation — knowing your guests well enough to anticipate their needs, creating conditions in which they will be comfortable, having enough of the right things available. But preparation is in service of the larger thing, not a substitute for it. A perfectly prepared house with an absent or distracted host is not hospitality. An imperfect setting with a host who is genuinely present and glad you are there often is.
 
 The door is the symbol and the threshold is the act. What you do on this side of it is the whole of the practice.
-

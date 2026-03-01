@@ -4,13 +4,21 @@ The impulse toward fairness appears in children before it is taught to them, whi
 
 Justice is the formalization of that impulse. At its simplest, it requires treating like cases alike — applying the same standards, expectations, and consequences to situations that are relevantly similar, regardless of who is involved. This sounds obvious. The violations of it are constant, including by people who would describe themselves as committed to fairness. The lawyer who argues for leniency in a case involving someone like themselves and severity in the same case involving someone unlike them. The manager who interprets ambiguous situations generously for the employees they like and skeptically for the ones they do not. The person who is outraged by a behavior in their political opponents that they excuse in their political allies. This inconsistency is so common that it barely registers as a failure. It should.
 
+## Legal Justice Versus Ethical Justice
+
 The distinction between legal justice and ethical justice matters and is often collapsed in ways that do damage. Legal systems formalize a society's best current attempt at implementing justice within practical constraints — they are imperfect instruments of a real value. Following the law is generally consistent with justice and sometimes required by it. But the law and justice are not the same thing, and the history of law is substantially a history of legal systems enforcing injustice. Slavery was legal. Segregation was legal. The systematic denial of property rights to women was legal. The fact that something is permitted by the current law is not, by itself, a complete ethical account of whether it is right.
 
 This creates a real and difficult obligation. When the law is just, following it is right. When the law is unjust, the question becomes more complicated — and answering it by defaulting to compliance because compliance is safe is not a neutral act. It is a choice, and a choice whose consequences fall on those the unjust law disadvantages. The people who simply followed the rules in every era of legal injustice are not remembered as neutral. They are understood as participants. This should create discomfort, because it means that "I'm just following the rules" is not an ethical position. It is, at best, an incomplete one.
 
+## The Obligation To Speak Up
+
 Justice requires standing for what is right even when doing so is costly. This is not a call to constant friction or the performance of righteous opposition. It is a call to notice when something is wrong and to not be silenced by the cost of saying so. The cost is real — professional, social, sometimes material. The person who stays quiet when a colleague is treated unfairly in order to protect their own standing has made a choice about whose interests matter more. That choice deserves to be examined directly rather than absorbed as institutional inevitability.
 
+## Proportionality Matters
+
 There is also the question of proportionality. Justice is not about the most punishing possible response to every wrong. It is about the right response — one that addresses the harm, accounts for context, and neither minimizes what happened nor extracts beyond what is warranted. The punitive impulse, when untempered by proportionality, produces its own injustices. The person who demands the maximum consequence in every case, or who is more interested in punishment than in repair, has confused the satisfaction of anger with the goal of fairness.
+
+## Justice Starts Close To Home
 
 The personal practice of justice begins closer to home than most people look. It is in the small consistencies — applying the same standard to yourself that you apply to others, holding the people you like to the same expectations as the people you do not, noticing when your assessment of a situation shifts with your proximity to the outcome. These are the micro-decisions that reveal whether you actually believe in fairness or simply in outcomes that favor you.
 

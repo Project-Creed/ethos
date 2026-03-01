@@ -6,6 +6,8 @@ This is not a religion. It does not require faith in anything supernatural, and 
 
 The question this book answers is: what does it mean to live well? Not what does it feel like, or what will others think — but what choices, habits, and orientations make a life defensible from the inside, looking back over decades?
 
+## The Four Commitments
+
 Ethosism's answer has four parts.
 
 **Purpose.** You must live intentionally rather than reactively. This does not mean you need a grand mission or a clear calling. It means you must have a direction — some orientation toward something outside mere comfort and distraction. Purpose is not discovered once and held forever. It is a commitment you renew through daily choices.
@@ -18,9 +20,13 @@ Ethosism's answer has four parts.
 
 These four commitments form the spine of everything in this book. Every pillar — from discipline to forgiveness to marriage to time management — is an application of these four ideas to a specific domain of life.
 
+## A Decision Framework
+
 Before making any significant decision, run four checks. First, what are the real-world consequences? Not the imagined ones, not the optimistic ones — the likely ones, grounded in evidence. Second, would this still feel fair if the roles were reversed — if you were on the receiving end? Third, does this align with what you actually claim to value, or are you rationalizing an exception? Fourth, will this decision still look wise in ten years, or only in the next ten minutes?
 
 These are not exotic questions. They are the questions any reasonable person would want asked about their choices before committing to them. The goal of this book is to make that kind of reasoning habitual — not something you do occasionally when life is hard, but the default mode by which you operate.
+
+## How To Use This Book
 
 ---
 

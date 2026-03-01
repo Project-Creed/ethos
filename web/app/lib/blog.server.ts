@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { marked } from "marked";
+import { marked, Renderer } from "marked";
 
 // In Lambda (production), chapters are bundled alongside the server build at process.cwd()/chapters/.
 // In local dev (running from web/), chapters live one level up at ../chapters/.
@@ -8,6 +8,12 @@ const CHAPTERS_DIR =
   process.env.NODE_ENV === "production"
     ? path.join(process.cwd(), "chapters")
     : path.join(process.cwd(), "..", "chapters");
+
+export interface TocEntry {
+  id: string;
+  text: string;
+  level: 2 | 3;
+}
 
 export interface ChapterMeta {
   slug: string;
@@ -18,6 +24,15 @@ export interface ChapterMeta {
 
 export interface Chapter extends ChapterMeta {
   html: string;
+  toc: TocEntry[];
+}
+
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/[^\w-]/g, "");
 }
 
 function extractTitle(content: string): string {
@@ -52,6 +67,22 @@ function filenameToOrder(filename: string): number {
   return match ? parseInt(match[1], 10) : 999;
 }
 
+function parseContent(content: string): { html: string; toc: TocEntry[] } {
+  const toc: TocEntry[] = [];
+
+  const renderer = new Renderer();
+  renderer.heading = function (token: { text: string; depth: number; raw: string }) {
+    const id = slugify(token.raw.replace(/^#+\s*/, ""));
+    if (token.depth === 2 || token.depth === 3) {
+      toc.push({ id, text: token.text, level: token.depth as 2 | 3 });
+    }
+    return `<h${token.depth} id="${id}">${token.text}</h${token.depth}>\n`;
+  };
+
+  const html = marked(content, { renderer }) as string;
+  return { html, toc };
+}
+
 export function getChapterSlugs(): string[] {
   if (!fs.existsSync(CHAPTERS_DIR)) return [];
   return fs
@@ -84,12 +115,13 @@ export function getChapter(slug: string): Chapter | null {
   const filename = files.find((f) => filenameToSlug(f) === slug);
   if (!filename) return null;
   const content = fs.readFileSync(path.join(CHAPTERS_DIR, filename), "utf-8");
-  const html = marked(content) as string;
+  const { html, toc } = parseContent(content);
   return {
     slug,
     order: filenameToOrder(filename),
     title: extractTitle(content),
     description: extractDescription(content),
     html,
+    toc,
   };
 }

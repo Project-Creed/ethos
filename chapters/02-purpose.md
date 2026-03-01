@@ -6,9 +6,13 @@ Most people live reactively. They do what is expected, respond to what arrives, 
 
 What does purpose actually mean? Not a passion you discover or a calling that arrives fully formed. Not a five-year plan or a mission statement on a notecard. Purpose is simpler and more demanding than any of these: it is the commitment to make your daily choices in light of what actually matters. It means asking, before you spend your time, attention, or energy, whether this moves you in the direction you've decided is worth moving.
 
+## The Calendar Test
+
 The test is behavioral. You can tell a lot about what someone's purpose really is by looking at their calendar — not at what they say they value, but at where they actually direct the finite hours of their life. Stated values that never show up in behavior are not values. They are aspirations at best, self-deceptions at worst.
 
 This gap — between what people say matters and how they actually spend their time — is one of the most common forms of self-betrayal. It is also one of the most painful to acknowledge, which is why most people avoid the audit. Ethosism requires the audit. Not as punishment, but because you cannot correct what you refuse to see.
+
+## What Real Purpose Requires
 
 Purpose has two qualities that matter: it must be real, and it must be yours.
 
@@ -20,9 +24,13 @@ Finding purpose does not require a retreat or a revelation. It requires honesty.
 
 Once found, purpose is not permanent. It must be maintained through daily choices and corrected through honest review. The purpose that made sense at twenty-five may need revision at forty. Life changes, and so do the most important forms of contribution available to you. This is not failure — it is responsiveness. What doesn't change is the commitment to having a direction that is conscious, chosen, and worth your life.
 
+## Daily And Weekly Practice
+
 Daily practice is simple: name your current mission in one sentence. Not the ideal mission, not the ultimate mission — the one that is true right now. Then look at your day and ask whether your planned actions advance that mission or compete with it. Remove one thing that competes. Do one thing that advances it. Review at the end of the day. Repeat.
 
 Weekly, ask harder questions: Did my behavior this week match what I say I'm for? What would someone watching me conclude about my priorities? What would I do differently if I took my own stated values seriously?
+
+## The Failure Mode
 
 The failure mode worth naming is romanticizing the search while avoiding the commitment. Many people spend years reading about purpose, talking about purpose, feeling moved by other people's purpose — without ever choosing their own. This is not discernment. It is avoidance wearing discernment's clothes. Purpose is not found by thinking longer. It is found by choosing and then finding out.
 

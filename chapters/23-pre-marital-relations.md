@@ -2,15 +2,25 @@
 
 The question worth asking about physical intimacy before marriage is not whether it is permitted. It is what it costs, what it risks, and whether you are being honest about both.
 
+## Beyond Rules-Based Thinking
+
 Rules-based approaches to this question — lists of prohibitions, specific acts categorized as allowed or forbidden — tend to produce two outcomes: compliance without understanding, or rejection without examination. Neither is useful. What is useful is developing the judgment to navigate intimacy honestly, which requires actually reckoning with what is at stake rather than outsourcing the question to an external code.
 
 Physical intimacy between people is not a neutral act. This is the thing that rules-based approaches are trying to capture, however clumsily. Sex involves a level of vulnerability — physical, emotional, psychological — that distinguishes it from most other human interactions. That vulnerability is not a problem. It is part of what makes intimacy significant and, at its best, genuinely connecting. But vulnerability without discernment is exposure without protection. The question of whether you are being intimate with this person in this way at this point in this relationship is a real question, and the answer should be informed by genuine reflection rather than by the combination of desire and the absence of explicit prohibition.
 
+## Know Yourself on This Dimension
+
 The emotional consequences of sexual intimacy are variable and real. Some people can engage in physical relationships without significant emotional entanglement. Others cannot, but believe they can, or want to believe they can because the entanglement feels like weakness. Still others genuinely don't know until they are already in it. The honest approach is to know yourself as accurately as possible on this dimension before making decisions that are easier to make than to unmake. Not as moral accounting but as practical self-knowledge: what does this kind of intimacy do to you, and are you prepared for it?
+
+## The Integrity Question
 
 The integrity question is distinct from the emotional one. Integrity in intimate relationships means that your behavior is consistent with your actual commitments — not your stated commitments, your actual ones. If you are sexually involved with someone while also emotionally pursuing another person, the integrity problem is not which of the two relationships is "official." It is that you are behaving differently toward both people than you would be if they had complete information. The test is the same as in every other domain: would your behavior change if everyone involved could see it clearly? If yes, the integrity issue is already present.
 
+## When Attraction Substitutes for Compatibility
+
 There is also a practical question about what early physical intimacy does to the development of a relationship. Physical attraction is a powerful signal that is easy to mistake for compatibility. Two people who are very attracted to each other will generate a great deal of evidence of connection in the early stages of a sexual relationship that has nothing to do with actual compatibility — shared values, complementary temperaments, aligned life directions, the ability to work through real conflict. Physical intimacy can create a sense of closeness that substitutes for, rather than developing alongside, the deeper forms of knowing that determine whether a relationship is actually sound. This is not an argument for abstinence. It is an argument for keeping your eyes open and your judgment active even when your body is making a different kind of argument.
+
+## What You Owe the Other Person
 
 The discernment this requires is not complicated in principle and is genuinely hard in practice. It means asking, honestly, what this relationship is and where it is going — not as a demand for commitment, but as an honest accounting of where things actually stand before you increase the stakes. It means noticing whether the intimacy is deepening something real or providing a feeling of closeness that is substituting for developing something real. It means being honest with the other person about where you are, even when honesty would make the situation less comfortable.
 
